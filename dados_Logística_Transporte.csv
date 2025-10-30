@@ -1,0 +1,1001 @@
+Data Início,Data Término,Motorista,Tipo Transporte,Placa Veículo,Cidade Origem,Cidade Destino,Status
+2025-10-23,2025-10-27,Sra. Nina da Mota,Rodoviário,KXP-6Y71,Casa Grande dos Dourados,Sousa da Mata,Entregue
+2025-10-17,2025-10-25,Thales Dias,Marítimo,DCR-0M42,da Rocha,Ferreira Verde,Entregue
+2025-10-20,2025-10-22,Asafe Novais,Aéreo,DIK-0J40,Moreira,Barbosa,Entregue
+2025-10-08,2025-10-18,Rebeca da Cruz,Marítimo,PZZ-1Q40,Brito do Campo,Rodrigues,Em Trânsito
+2025-10-20,2025-10-27,Bella Correia,Marítimo,KAV-5T40,Mendonça Grande,Mendes de Câmara,Em Trânsito
+2025-10-12,2025-10-17,Cecília Mendonça,Aéreo,ABP-1V75,Melo do Amparo,Casa Grande,Em Trânsito
+2025-10-23,2025-10-31,Sra. Ágatha da Paz,Rodoviário,VGK-2T79,Monteiro de Goiás,Lopes Paulista,Em Trânsito
+2025-10-16,2025-10-24,Ana Laura Souza,Marítimo,VUL-8D11,Câmara de Andrade,Souza,Atrasado
+2025-10-03,2025-10-04,Dra. Emanuelly da Cunha,Marítimo,DQF-1U70,Pires,Gomes,Em Trânsito
+2025-10-27,2025-10-30,Theo Lima,Rodoviário,WIN-2C75,Abreu,Montenegro das Flores,Atrasado
+2025-10-26,2025-10-27,Srta. Ayla Melo,Rodoviário,FUD-0G13,das Neves,Rezende,Entregue
+2025-10-10,2025-10-12,Eloah Ferreira,Rodoviário,XXD-3S41,Mendes de Goiás,Nogueira do Galho,Em Trânsito
+2025-10-27,2025-11-05,Sabrina Aparecida,Rodoviário,WYM-4D69,Fonseca,Montenegro,Em Trânsito
+2025-10-08,2025-10-11,Murilo Novais,Rodoviário,RUE-8U63,Casa Grande,Martins,Atrasado
+2025-10-24,2025-10-28,Caroline Rezende,Rodoviário,AAM-5Y63,Vieira,Correia,Entregue
+2025-09-29,2025-10-06,Gabriel Souza,Rodoviário,GWS-0D05,Leão da Serra,Cirino Verde,Atrasado
+2025-10-23,2025-10-30,Sr. José Miguel Oliveira,Rodoviário,OHB-4I07,Barros de Novais,Aragão de Borges,Entregue
+2025-10-16,2025-10-25,Cecilia Barbosa,Rodoviário,QAB-5X66,Carvalho de Goiás,Fogaça das Pedras,Em Trânsito
+2025-09-30,2025-10-01,Maysa Nascimento,Aéreo,FTG-7A87,Brito de Goiás,Novaes,Atrasado
+2025-10-05,2025-10-14,Lorenzo Nogueira,Aéreo,XUU-1U92,Moraes Paulista,Andrade,Atrasado
+2025-10-25,2025-10-27,Rodrigo Nogueira,Rodoviário,OWA-1C09,Ferreira de Pastor,Gonçalves,Em Trânsito
+2025-10-06,2025-10-12,Mirella Novais,Rodoviário,GKE-1Y08,Novaes do Oeste,Pires do Campo,Atrasado
+2025-10-24,2025-10-27,Dr. Renan da Costa,Marítimo,NMJ-7K37,Barbosa,da Paz Paulista,Entregue
+2025-10-13,2025-10-20,Isabela Ferreira,Rodoviário,YRQ-6B68,Novaes,Oliveira da Serra,Em Trânsito
+2025-10-18,2025-10-25,Bella Fernandes,Rodoviário,SNF-2V71,Cavalcante,Oliveira Alegre,Entregue
+2025-10-29,2025-11-04,Srta. Mariane Peixoto,Marítimo,UAH-3D11,Mendes do Norte,Barbosa,Entregue
+2025-10-17,2025-10-25,Caio Ribeiro,Rodoviário,CUD-0S21,Almeida da Serra,Santos,Atrasado
+2025-09-29,2025-10-01,Benjamim Casa Grande,Marítimo,WHN-9C65,Souza,Caldeira de Vasconcelos,Atrasado
+2025-10-01,2025-10-02,João Miguel Pastor,Marítimo,PKQ-2M46,Teixeira de Lima,Campos Alegre,Entregue
+2025-09-30,2025-10-06,Yago Garcia,Aéreo,EXA-0S71,Pinto,Caldeira,Em Trânsito
+2025-10-23,2025-11-02,Evelyn Gomes,Aéreo,IFR-4P75,Ferreira do Campo,Cardoso do Oeste,Entregue
+2025-10-26,2025-10-27,Marcelo Almeida,Marítimo,DUJ-7W23,Cirino do Galho,Albuquerque,Em Trânsito
+2025-10-16,2025-10-20,Brayan Pimenta,Rodoviário,XFQ-8E35,Barbosa,Vargas,Em Trânsito
+2025-10-26,2025-10-30,Maria Cecília Nascimento,Marítimo,IUK-9C48,Dias,Campos,Em Trânsito
+2025-10-14,2025-10-18,Enrico Duarte,Marítimo,QSB-3I12,Silveira do Campo,Nascimento do Sul,Entregue
+2025-10-28,2025-10-31,Sarah Moreira,Marítimo,PYF-8V59,Silva do Amparo,Moreira,Em Trânsito
+2025-09-29,2025-10-02,Srta. Larissa Lopes,Marítimo,RBJ-8Y55,Ramos,Cavalcanti de Vargas,Entregue
+2025-10-07,2025-10-15,Lorenzo Nunes,Marítimo,ETL-3C46,Sá Grande,Souza da Serra,Em Trânsito
+2025-10-16,2025-10-26,Dr. Carlos Eduardo Câmara,Marítimo,UDU-7Q30,Pimenta do Sul,Machado Paulista,Em Trânsito
+2025-10-04,2025-10-09,Joaquim Ferreira,Rodoviário,DUM-1A89,Vasconcelos,Martins,Atrasado
+2025-10-15,2025-10-18,Ana Carolina da Luz,Rodoviário,MLO-8J73,Souza,Sá,Entregue
+2025-10-14,2025-10-15,Nina da Rocha,Rodoviário,ZKO-5K18,da Cruz,Porto,Atrasado
+2025-10-15,2025-10-21,Rael Costa,Rodoviário,VAC-1Z62,Nascimento de Gomes,Mendes,Atrasado
+2025-10-26,2025-11-04,Bryan Moreira,Rodoviário,BVC-4K48,Mendonça,Brito,Em Trânsito
+2025-09-30,2025-10-05,Eduarda Correia,Rodoviário,ECD-5C40,Pacheco Verde,Oliveira,Em Trânsito
+2025-10-28,2025-11-02,Olivia Souza,Rodoviário,NOF-5F69,Nascimento de Minas,Cirino da Prata,Em Trânsito
+2025-10-13,2025-10-17,Clara Rocha,Marítimo,AIV-8Z48,Sousa do Norte,Freitas,Entregue
+2025-10-02,2025-10-05,Juan Carvalho,Aéreo,YAE-0U72,Azevedo de Souza,da Conceição das Flores,Atrasado
+2025-10-14,2025-10-20,Ravi Ferreira,Rodoviário,LIC-6Q47,Novaes da Praia,da Costa,Atrasado
+2025-10-20,2025-10-22,Luiz Henrique Costela,Rodoviário,JIB-8D62,Monteiro,Borges,Atrasado
+2025-10-08,2025-10-17,Francisco Novais,Marítimo,JPK-3B35,Martins,Siqueira,Atrasado
+2025-10-22,2025-10-27,João Miguel das Neves,Marítimo,DIN-5M47,Moraes,Costela,Entregue
+2025-10-04,2025-10-08,Otto Leão,Marítimo,FAQ-2Y05,Pereira da Serra,Macedo Verde,Entregue
+2025-10-05,2025-10-12,Luana da Costa,Aéreo,CBE-0C24,da Rosa da Praia,da Cunha,Entregue
+2025-10-18,2025-10-28,Valentina das Neves,Marítimo,BOQ-5C56,da Cruz de Minas,Sousa,Em Trânsito
+2025-10-10,2025-10-13,Maria Liz Cavalcanti,Rodoviário,EFF-6M68,Novais,da Costa,Atrasado
+2025-10-29,2025-10-30,Guilherme da Cunha,Marítimo,FGI-3I29,Fogaça da Praia,Cirino do Oeste,Entregue
+2025-10-11,2025-10-20,Sr. João Vitor da Rocha,Rodoviário,LIP-7V50,Vieira,da Cruz de Lopes,Atrasado
+2025-10-02,2025-10-09,Vitória Gomes,Rodoviário,UQJ-3A46,Garcia Paulista,Campos de Minas,Entregue
+2025-10-13,2025-10-18,Ester das Neves,Marítimo,TSL-6R57,Costa Alegre,Pinto de Vargas,Atrasado
+2025-10-06,2025-10-16,Bernardo Nascimento,Aéreo,IGI-9J72,Campos,Barbosa da Prata,Atrasado
+2025-10-14,2025-10-17,Helena Rocha,Rodoviário,DLZ-8O61,Santos,Camargo,Entregue
+2025-10-19,2025-10-23,Eloá Moraes,Rodoviário,YEJ-6B21,da Rosa Grande,Rios,Atrasado
+2025-10-29,2025-11-08,Erick Siqueira,Rodoviário,ZCW-1B50,Nogueira,Melo,Em Trânsito
+2025-10-11,2025-10-16,Diego Rios,Rodoviário,XNY-8W17,Andrade da Serra,da Conceição,Em Trânsito
+2025-10-21,2025-10-27,José Miguel Souza,Rodoviário,AGX-5L67,da Paz,Fonseca,Em Trânsito
+2025-10-29,2025-10-30,Francisco Peixoto,Marítimo,YXQ-0D31,Souza da Mata,Abreu de Farias,Em Trânsito
+2025-10-08,2025-10-09,Raquel Souza,Aéreo,WFQ-9Q77,Jesus,Macedo,Entregue
+2025-10-04,2025-10-08,Valentim Martins,Rodoviário,JQG-4V08,Carvalho Alegre,da Costa Paulista,Entregue
+2025-10-25,2025-10-29,Henry Pereira,Aéreo,WIB-4H21,Ribeiro do Galho,Macedo Paulista,Em Trânsito
+2025-10-13,2025-10-23,Maria Helena Nogueira,Rodoviário,WOT-1M65,Dias,da Paz,Em Trânsito
+2025-09-29,2025-09-30,Ian Barros,Aéreo,WXZ-0Z45,Nascimento das Pedras,Vieira de Mendes,Entregue
+2025-10-15,2025-10-22,Sr. Ryan da Rosa,Aéreo,JPK-8M10,da Luz,Jesus,Entregue
+2025-10-01,2025-10-10,Mariana Rodrigues,Marítimo,WQD-9P84,Cavalcanti,Aparecida Verde,Entregue
+2025-10-16,2025-10-18,Maria Alice Machado,Rodoviário,ZTN-5M33,Silva da Praia,Martins do Norte,Atrasado
+2025-09-29,2025-10-08,Bruna Costa,Aéreo,BGC-1Y36,Pacheco,Costa,Em Trânsito
+2025-10-08,2025-10-12,Maria Alice Teixeira,Aéreo,RUX-6B47,Câmara,Novais de Lopes,Em Trânsito
+2025-10-27,2025-11-03,Clarice Siqueira,Rodoviário,VGU-7B34,Almeida,da Rosa Verde,Entregue
+2025-10-16,2025-10-22,Bianca Andrade,Marítimo,VVD-5V62,Almeida do Amparo,Lima de Porto,Em Trânsito
+2025-10-15,2025-10-17,Dr. Renan da Luz,Aéreo,RMD-4A71,Pinto,Duarte do Amparo,Entregue
+2025-10-27,2025-10-28,Leonardo Pacheco,Rodoviário,HFU-0C36,Rocha,das Neves do Oeste,Atrasado
+2025-10-12,2025-10-15,Allana Vieira,Aéreo,CPD-5Y64,Campos,Leão,Entregue
+2025-10-11,2025-10-15,Stephany Fernandes,Marítimo,FEW-3R01,Fonseca de Novaes,Novais,Entregue
+2025-10-21,2025-10-31,Ravi da Luz,Rodoviário,LQS-2H09,Montenegro de Cirino,Viana do Campo,Entregue
+2025-10-04,2025-10-14,Sra. Isabela Fonseca,Aéreo,QFF-9A95,Mendes,Cassiano,Em Trânsito
+2025-09-29,2025-09-30,Joana Sousa,Marítimo,PUI-5R31,Vieira,Montenegro da Praia,Em Trânsito
+2025-10-10,2025-10-19,João Vitor Cirino,Aéreo,VIT-8V09,Abreu das Pedras,Costela,Em Trânsito
+2025-09-30,2025-10-01,Dra. Alexia Machado,Marítimo,KIN-1D96,Lopes,Rezende Grande,Entregue
+2025-10-24,2025-10-30,Natália Cunha,Marítimo,RQQ-1R69,Viana,Rodrigues da Serra,Em Trânsito
+2025-10-13,2025-10-15,Vicente Montenegro,Rodoviário,SWB-1V54,Nogueira,Andrade Alegre,Entregue
+2025-10-16,2025-10-26,Maria Vitória Ribeiro,Marítimo,SLX-9F35,Rodrigues,Cunha da Prata,Em Trânsito
+2025-10-26,2025-10-29,Marcela da Mata,Aéreo,KST-8H09,da Rosa de Pimenta,Pires de Mendes,Atrasado
+2025-10-20,2025-10-21,Lívia Garcia,Aéreo,PQX-2B27,da Costa de Goiás,Fernandes,Em Trânsito
+2025-10-10,2025-10-11,Yan Silveira,Rodoviário,MPM-8A34,Borges de Goiás,Costela,Entregue
+2025-10-05,2025-10-11,Thomas Lopes,Rodoviário,RMH-7T93,Moura Alegre,Lima de Martins,Em Trânsito
+2025-10-03,2025-10-13,Dra. Mariah da Cunha,Aéreo,WCU-3B94,Ferreira,Pacheco,Em Trânsito
+2025-10-23,2025-10-30,Dr. Davi Lucas Cassiano,Aéreo,EPQ-5F02,Gonçalves,da Cunha,Atrasado
+2025-10-25,2025-10-30,Sr. Antônio Aparecida,Aéreo,BTE-9V13,Rios,Barbosa Alegre,Em Trânsito
+2025-10-22,2025-10-28,Lavínia Ribeiro,Aéreo,PFP-4T62,Costela da Praia,Macedo Grande,Atrasado
+2025-10-07,2025-10-13,Pedro Henrique da Luz,Aéreo,SAV-7L23,Andrade Grande,Pastor do Norte,Em Trânsito
+2025-10-01,2025-10-06,Agatha Teixeira,Aéreo,LWL-3H10,Albuquerque,da Mota,Em Trânsito
+2025-10-28,2025-11-02,Pedro Fernandes,Aéreo,VMT-0J46,Sá,Camargo,Atrasado
+2025-10-12,2025-10-18,Gabriel Siqueira,Marítimo,BEV-4C48,Sales de Aragão,Pinto,Entregue
+2025-10-26,2025-11-03,Cecilia Pastor,Marítimo,DNA-3H05,Cassiano,Leão de Minas,Entregue
+2025-10-12,2025-10-22,Stephany Lopes,Rodoviário,FQH-9W52,Marques,Mendes,Atrasado
+2025-10-03,2025-10-07,Rodrigo Cirino,Rodoviário,PIU-0I18,da Cruz Paulista,Farias das Flores,Atrasado
+2025-10-07,2025-10-17,Aurora Freitas,Marítimo,CHJ-2U33,Moreira,Santos,Em Trânsito
+2025-10-28,2025-11-03,Lara Freitas,Marítimo,WMB-9G36,Porto,Sousa do Sul,Entregue
+2025-10-10,2025-10-16,Lucas Rocha,Marítimo,MZQ-1K50,Gomes da Serra,Carvalho dos Dourados,Em Trânsito
+2025-09-29,2025-10-08,Emilly Barbosa,Aéreo,PKP-5H43,Cassiano,Costa,Atrasado
+2025-10-04,2025-10-13,Bruna Macedo,Aéreo,LHU-1E59,Fernandes da Prata,Moura,Atrasado
+2025-10-23,2025-10-29,Isadora Alves,Aéreo,ZLP-9N17,Albuquerque,Peixoto do Amparo,Atrasado
+2025-10-13,2025-10-17,Emanuel Macedo,Rodoviário,PMX-6K88,da Rocha,Sales,Atrasado
+2025-10-05,2025-10-08,Dr. Asafe Sales,Rodoviário,JNG-4Q25,Gomes,Nunes,Em Trânsito
+2025-10-21,2025-10-31,Davi Silveira,Rodoviário,AMT-4W72,Oliveira,Araújo,Em Trânsito
+2025-10-01,2025-10-06,João Pedro Pacheco,Marítimo,PGI-1U88,Brito da Prata,Pacheco,Em Trânsito
+2025-10-18,2025-10-26,Maria Julia Rios,Aéreo,YXW-8Y67,Viana dos Dourados,Farias da Praia,Atrasado
+2025-10-11,2025-10-21,Sr. Henry Gabriel Câmara,Marítimo,KEO-7R48,Teixeira,da Paz do Norte,Atrasado
+2025-09-30,2025-10-08,Catarina Monteiro,Rodoviário,YWR-1U42,Novais,Cirino do Norte,Em Trânsito
+2025-10-10,2025-10-13,Dr. Henry Ribeiro,Aéreo,STT-9P84,Souza das Flores,Cassiano do Campo,Em Trânsito
+2025-10-16,2025-10-20,Carolina Alves,Marítimo,XOE-0I72,Melo do Sul,Almeida do Norte,Em Trânsito
+2025-10-06,2025-10-12,Maria Helena Pereira,Aéreo,SFZ-9W69,Nogueira,Lima,Atrasado
+2025-10-26,2025-10-30,Ana Carolina Araújo,Aéreo,CIJ-8J34,Garcia de Viana,Fogaça,Entregue
+2025-10-24,2025-10-26,Matteo Pimenta,Rodoviário,WSO-0L88,Teixeira de Melo,Câmara,Atrasado
+2025-09-30,2025-10-08,Ravi Castro,Marítimo,TRG-5D48,Rocha,da Rocha,Atrasado
+2025-10-28,2025-11-06,Dr. Luigi da Cunha,Marítimo,WBP-4R56,Leão,Sousa,Atrasado
+2025-10-03,2025-10-10,Anthony Gabriel da Rocha,Aéreo,GLG-7J86,Jesus de Silveira,Azevedo de Guerra,Entregue
+2025-10-14,2025-10-16,Carlos Eduardo Duarte,Rodoviário,XHW-2N60,Moreira do Amparo,Ferreira do Norte,Entregue
+2025-10-16,2025-10-24,Sra. Lívia da Costa,Aéreo,OOC-0P19,Sampaio,Sá,Atrasado
+2025-10-08,2025-10-10,Catarina Brito,Rodoviário,LLE-2T35,Ferreira,Oliveira,Em Trânsito
+2025-09-29,2025-10-04,Maria Laura da Luz,Aéreo,KWW-9C04,Barbosa,Albuquerque,Entregue
+2025-10-06,2025-10-15,Ravy Silva,Aéreo,VJT-2N94,Sousa,Vieira da Prata,Entregue
+2025-10-19,2025-10-27,Stella Silveira,Aéreo,BAO-5Q94,Alves de Câmara,Mendonça,Entregue
+2025-10-04,2025-10-06,Mariana Cassiano,Rodoviário,GDP-7Z84,da Conceição,Moura Alegre,Em Trânsito
+2025-10-17,2025-10-27,Ravi Lucca da Rosa,Marítimo,LQE-6M30,Nascimento,Rios,Entregue
+2025-10-24,2025-10-27,Calebe da Cunha,Marítimo,CHP-8G17,Sá de Costela,Ribeiro,Atrasado
+2025-10-27,2025-11-05,Cauã Leão,Marítimo,ZFY-7F27,da Conceição do Sul,Lopes da Praia,Atrasado
+2025-09-30,2025-10-01,Alícia Câmara,Aéreo,TNW-1P58,da Mata das Pedras,Azevedo de da Paz,Em Trânsito
+2025-10-14,2025-10-20,Maria Eduarda Rios,Rodoviário,ULD-9J53,Pastor,Carvalho,Entregue
+2025-10-29,2025-11-05,José Pedro Pastor,Aéreo,DRM-3T42,Lima,Rodrigues Grande,Entregue
+2025-09-30,2025-10-06,Yago Rocha,Rodoviário,WUD-8D40,da Mota,Pimenta,Atrasado
+2025-10-13,2025-10-16,Pietro da Cruz,Marítimo,SAL-4K08,Cardoso,Cunha,Atrasado
+2025-09-30,2025-10-04,Luan Vieira,Aéreo,HIZ-3Y19,Santos,Caldeira,Em Trânsito
+2025-09-30,2025-10-07,João Pedro Barbosa,Rodoviário,UCN-2O81,Cavalcante de Souza,da Conceição de Lima,Entregue
+2025-10-29,2025-11-06,Sr. Isaque da Rocha,Aéreo,NJT-9S61,da Costa,Cirino do Norte,Em Trânsito
+2025-10-26,2025-10-27,João Nascimento,Rodoviário,UDH-1T75,Pimenta,Viana de Nunes,Em Trânsito
+2025-10-13,2025-10-20,Mariana Marques,Marítimo,XTW-5H04,Campos do Galho,Pires Grande,Atrasado
+2025-10-27,2025-11-05,Dra. Alícia Costa,Marítimo,XCD-6Y44,Silveira da Praia,Pereira de Abreu,Em Trânsito
+2025-10-18,2025-10-25,Davi Lucca Cunha,Aéreo,FYS-8R39,da Mota das Flores,Jesus das Pedras,Entregue
+2025-10-02,2025-10-07,Maria Alice da Luz,Rodoviário,JLQ-8S96,Correia,Jesus,Entregue
+2025-10-17,2025-10-20,Sarah Jesus,Marítimo,HNX-0P17,Andrade Paulista,Rezende das Flores,Entregue
+2025-10-22,2025-10-24,Vitor Gabriel Garcia,Aéreo,RSX-8S06,Martins do Campo,Montenegro,Em Trânsito
+2025-10-12,2025-10-18,Dom Pacheco,Rodoviário,YDV-4S58,Cirino da Praia,Fernandes,Atrasado
+2025-10-27,2025-11-04,Ravi Lucca da Cruz,Marítimo,FCI-1W16,Casa Grande,Cassiano de Campos,Entregue
+2025-10-05,2025-10-09,Otávio da Mota,Aéreo,TSX-3N50,Souza,Pereira do Sul,Entregue
+2025-10-20,2025-10-26,Sr. Carlos Eduardo Machado,Rodoviário,APC-8X39,Jesus,Pinto,Em Trânsito
+2025-10-06,2025-10-16,Bento Farias,Aéreo,FFO-4V50,Pereira,das Neves,Em Trânsito
+2025-10-01,2025-10-04,Lucca Novaes,Aéreo,HRQ-9M85,Moraes,Pinto,Atrasado
+2025-10-04,2025-10-05,Sabrina da Cunha,Marítimo,PVD-0F25,Fogaça,Dias das Flores,Em Trânsito
+2025-10-21,2025-10-22,Vinicius Sousa,Marítimo,QFM-9V06,Pires,Barros,Atrasado
+2025-10-28,2025-11-06,Murilo Nunes,Marítimo,YSZ-6M81,Porto de Câmara,Machado,Atrasado
+2025-10-16,2025-10-25,Dra. Isis Albuquerque,Rodoviário,SQZ-2Q08,Abreu do Galho,Melo,Entregue
+2025-10-03,2025-10-07,Laís Mendes,Rodoviário,ZYQ-0R65,Freitas dos Dourados,Rodrigues,Em Trânsito
+2025-10-12,2025-10-14,Joana Ribeiro,Aéreo,KII-9N20,Fonseca,Vargas Grande,Em Trânsito
+2025-10-08,2025-10-11,Isaac Pimenta,Rodoviário,ZCH-3I45,Almeida de Minas,Araújo Grande,Entregue
+2025-10-20,2025-10-29,Yan da Luz,Rodoviário,DCP-0U96,Cavalcante,da Cruz,Atrasado
+2025-10-10,2025-10-14,Luiz Henrique Garcia,Rodoviário,HQK-0E63,Costela dos Dourados,Oliveira de Pereira,Entregue
+2025-10-03,2025-10-13,Theo Pinto,Aéreo,QTA-2V62,das Neves do Norte,Freitas do Sul,Entregue
+2025-10-21,2025-10-26,Maria Laura Dias,Aéreo,COY-4V52,Lopes do Amparo,das Neves de da Rosa,Atrasado
+2025-09-30,2025-10-01,Stella Duarte,Rodoviário,UFL-3I51,Ferreira Alegre,Albuquerque do Campo,Entregue
+2025-10-15,2025-10-16,Juan Freitas,Rodoviário,DEF-1I15,Fogaça,Cassiano,Atrasado
+2025-10-18,2025-10-21,Sofia Fernandes,Marítimo,PQV-9V55,da Luz,Marques,Atrasado
+2025-10-26,2025-11-01,Larissa Novais,Aéreo,LSH-9T76,Nogueira das Flores,Alves,Atrasado
+2025-10-13,2025-10-23,Srta. Laura Dias,Marítimo,OGD-1U32,Lima da Serra,Rodrigues,Entregue
+2025-10-27,2025-10-30,Raquel Novais,Marítimo,DAN-2W92,Nunes,da Rocha,Entregue
+2025-10-07,2025-10-08,Erick das Neves,Aéreo,PSX-3T66,da Mata,da Mota dos Dourados,Atrasado
+2025-10-25,2025-10-30,Davi Lucca Gonçalves,Marítimo,CMK-8G78,Rios do Amparo,Pereira do Amparo,Em Trânsito
+2025-10-23,2025-10-26,Antony Ribeiro,Marítimo,BOI-5Y57,Sampaio,Lopes,Atrasado
+2025-09-30,2025-10-01,Julia Novaes,Rodoviário,CQU-2I31,Correia,Ramos de Aparecida,Em Trânsito
+2025-10-20,2025-10-29,Heitor Cunha,Aéreo,NHE-5A74,da Cruz,Dias do Amparo,Entregue
+2025-10-27,2025-11-05,Emilly Casa Grande,Rodoviário,NAK-6F39,Fernandes,Araújo,Atrasado
+2025-10-10,2025-10-20,Sr. Luigi Monteiro,Rodoviário,HEB-8L02,Martins,Nogueira,Em Trânsito
+2025-10-28,2025-11-03,Felipe Carvalho,Aéreo,CBA-9J76,Rocha,da Conceição,Entregue
+2025-10-18,2025-10-21,Dom Cavalcante,Marítimo,RPU-5G81,Duarte do Amparo,Vieira de Ramos,Atrasado
+2025-10-02,2025-10-09,Léo Nogueira,Marítimo,TLV-3K38,Câmara da Mata,Moraes,Entregue
+2025-09-29,2025-10-07,Esther da Paz,Aéreo,SOP-0B16,Moura,da Mata,Entregue
+2025-10-21,2025-10-23,Sr. Bento Pires,Rodoviário,FVB-9V56,Costela,Pimenta Paulista,Atrasado
+2025-10-12,2025-10-21,Fernando Costa,Rodoviário,IOK-4S39,Camargo de Minas,Leão,Entregue
+2025-10-25,2025-10-31,Sr. Breno Pimenta,Rodoviário,FQZ-7U38,Lima,Dias,Atrasado
+2025-10-27,2025-10-31,Maria Luiza Brito,Rodoviário,OSC-3G79,Fogaça do Galho,Barbosa,Entregue
+2025-10-15,2025-10-21,Asafe Moraes,Marítimo,NNB-3O91,Ribeiro,Melo da Mata,Em Trânsito
+2025-10-20,2025-10-30,Augusto Casa Grande,Marítimo,MKF-5V63,Rezende do Oeste,da Cunha do Campo,Entregue
+2025-10-26,2025-11-01,Cecilia Moura,Marítimo,YZW-2I82,Lima,Freitas do Galho,Atrasado
+2025-10-17,2025-10-21,Sr. Kevin Sales,Marítimo,JRH-0U16,da Costa,Costa,Em Trânsito
+2025-10-23,2025-11-01,Caleb Caldeira,Marítimo,VNW-6I58,Martins,Oliveira de Camargo,Entregue
+2025-10-03,2025-10-09,Guilherme Souza,Aéreo,LMK-9X67,Dias da Mata,Rios,Em Trânsito
+2025-10-13,2025-10-20,Mariah Sousa,Rodoviário,HQL-3M93,Melo de Castro,Porto,Entregue
+2025-10-29,2025-11-06,Antonella Correia,Marítimo,XRR-1Y06,Casa Grande,da Mota das Flores,Em Trânsito
+2025-10-17,2025-10-20,Isaac Rezende,Marítimo,IMP-6Y56,Albuquerque,Freitas,Entregue
+2025-09-30,2025-10-10,Luiz Henrique Silva,Rodoviário,HXQ-9T18,Sá,Cirino da Serra,Atrasado
+2025-10-25,2025-11-04,Dr. Gustavo Henrique Pastor,Marítimo,PYN-1U05,Moreira,Silveira,Em Trânsito
+2025-10-07,2025-10-08,Júlia Pacheco,Aéreo,FTH-4Y77,Pacheco de Goiás,Souza,Entregue
+2025-10-19,2025-10-21,Alexia da Cruz,Marítimo,AFG-9D73,Rocha das Pedras,Martins,Em Trânsito
+2025-10-02,2025-10-10,Dra. Carolina Lopes,Marítimo,WRJ-9V66,Cavalcante de da Mata,Vargas da Serra,Atrasado
+2025-10-21,2025-10-29,Lavínia da Cunha,Aéreo,GNP-4I36,Cardoso,Farias,Entregue
+2025-10-13,2025-10-20,Carolina Freitas,Aéreo,IEG-3H10,Vargas das Flores,Melo da Praia,Em Trânsito
+2025-10-20,2025-10-23,Joana Rezende,Rodoviário,GQA-8K46,da Rosa de Santos,Casa Grande,Entregue
+2025-10-14,2025-10-17,Brayan Farias,Aéreo,UNQ-3A82,Souza Alegre,Rodrigues do Norte,Entregue
+2025-10-26,2025-11-04,Brayan Cavalcante,Marítimo,XQD-7X57,Porto Alegre,Andrade do Sul,Atrasado
+2025-10-10,2025-10-16,Sra. Ana Julia Cirino,Aéreo,ZYL-4T05,Vasconcelos de Minas,Siqueira,Atrasado
+2025-10-07,2025-10-13,Ana Luiza Moreira,Aéreo,FSF-6Q86,Gonçalves,Costela,Em Trânsito
+2025-10-16,2025-10-20,Yago Aparecida,Aéreo,RKC-9O82,Moreira,Pimenta da Prata,Em Trânsito
+2025-10-11,2025-10-16,Lucas Sá,Marítimo,ZSG-7O17,Cavalcanti,Sales da Serra,Em Trânsito
+2025-10-24,2025-10-30,Arthur Gabriel Martins,Aéreo,USX-7D26,Viana dos Dourados,Rocha,Atrasado
+2025-10-06,2025-10-14,Sra. Clara Aragão,Rodoviário,EJJ-8N22,Oliveira,Cardoso,Em Trânsito
+2025-09-29,2025-09-30,Fernanda Guerra,Rodoviário,WIO-6M23,Caldeira de Minas,Lopes de Novaes,Entregue
+2025-10-28,2025-11-07,Dr. Paulo Câmara,Aéreo,UAV-4B73,Silveira,Gonçalves das Flores,Em Trânsito
+2025-10-12,2025-10-16,Anna Liz Guerra,Rodoviário,FDA-3R91,Santos,Lopes de Jesus,Atrasado
+2025-10-05,2025-10-13,Agatha Cirino,Rodoviário,LNB-8D32,Brito,Machado do Norte,Em Trânsito
+2025-10-12,2025-10-14,Vitor Hugo Azevedo,Marítimo,KXI-7A46,Sousa,Dias,Em Trânsito
+2025-10-24,2025-10-25,Dr. Luiz Miguel Novaes,Rodoviário,DHB-2G32,Machado da Mata,Montenegro de Cunha,Entregue
+2025-10-05,2025-10-11,Miguel Pastor,Aéreo,VJT-4Q68,das Neves do Amparo,da Conceição do Norte,Em Trânsito
+2025-10-22,2025-10-29,Emanuelly Nascimento,Rodoviário,XZI-9U95,Oliveira,da Rocha,Em Trânsito
+2025-10-27,2025-11-01,Helena Novais,Marítimo,IQQ-5I20,Guerra Grande,Montenegro,Em Trânsito
+2025-10-01,2025-10-09,Mariah Fernandes,Aéreo,ZGE-0Q64,Moraes Alegre,Vieira das Pedras,Entregue
+2025-10-03,2025-10-12,Dr. Joaquim Montenegro,Aéreo,TVV-5N49,Dias,Marques do Norte,Atrasado
+2025-10-27,2025-11-05,Maria Helena Aparecida,Aéreo,HTI-1C74,Garcia,Sampaio,Entregue
+2025-10-03,2025-10-09,Maria Flor da Cunha,Rodoviário,TKD-5P51,Marques,da Rocha,Entregue
+2025-10-10,2025-10-12,Hadassa Câmara,Marítimo,XJA-2K83,da Cunha Alegre,Machado,Entregue
+2025-10-24,2025-10-31,Gustavo Henrique Nascimento,Marítimo,HOA-9U81,Viana do Amparo,Pereira,Atrasado
+2025-10-29,2025-11-08,João Guilherme Cardoso,Marítimo,PZN-4F69,Garcia,Rios do Galho,Em Trânsito
+2025-10-19,2025-10-28,Lorenzo da Cunha,Rodoviário,KHF-3O18,Oliveira,Vieira de Peixoto,Em Trânsito
+2025-10-29,2025-11-02,Eduarda Brito,Aéreo,OIV-6T48,da Conceição,Gomes,Entregue
+2025-10-17,2025-10-19,Thomas Vieira,Aéreo,KWR-6A38,Fonseca,Rezende de Goiás,Em Trânsito
+2025-10-28,2025-11-02,Luiza Aragão,Aéreo,IVG-4F79,Novais,Pastor do Campo,Entregue
+2025-10-27,2025-11-05,Rael Alves,Marítimo,CCU-0F22,Fernandes,Martins,Entregue
+2025-10-17,2025-10-27,Alana Cassiano,Rodoviário,YLP-3K85,Almeida,Vargas da Mata,Em Trânsito
+2025-10-17,2025-10-26,Marcelo Montenegro,Aéreo,SIH-0F76,Aragão do Norte,Novaes,Em Trânsito
+2025-10-11,2025-10-12,Stephany Monteiro,Aéreo,BAD-6T42,Machado do Campo,Macedo de Minas,Em Trânsito
+2025-10-24,2025-11-03,Asafe da Cruz,Aéreo,CUD-9C57,Pinto,Correia,Em Trânsito
+2025-10-15,2025-10-22,Davi Lucca Nogueira,Aéreo,OLP-4W61,Porto do Campo,Cardoso,Atrasado
+2025-10-29,2025-11-07,Gael Henrique da Mota,Marítimo,EOU-7V27,Mendonça do Norte,Siqueira,Em Trânsito
+2025-10-01,2025-10-03,Dr. Benjamin Sá,Rodoviário,RXD-1A26,Porto,da Costa,Atrasado
+2025-10-10,2025-10-17,João Gabriel Melo,Aéreo,IKA-8S17,Pimenta,Barros,Entregue
+2025-10-03,2025-10-04,Amanda Ramos,Rodoviário,NJO-8I51,das Neves Verde,da Luz,Em Trânsito
+2025-10-10,2025-10-18,Cecília Costa,Aéreo,KRA-9H41,Nascimento da Mata,Mendonça do Campo,Entregue
+2025-10-11,2025-10-20,Francisco Rezende,Aéreo,KDA-6G68,Ramos,Rezende de Abreu,Entregue
+2025-10-20,2025-10-22,Maria Helena Aparecida,Aéreo,GCH-2L71,Guerra de Minas,Rios,Entregue
+2025-10-13,2025-10-14,Maria Luiza Araújo,Rodoviário,IFP-0W93,Pires de Goiás,Moraes,Atrasado
+2025-10-04,2025-10-06,Daniel Souza,Rodoviário,TEI-4C72,Rezende,da Mata Paulista,Entregue
+2025-10-10,2025-10-12,Stella da Mota,Aéreo,DUK-8H23,da Cunha de Camargo,da Conceição,Em Trânsito
+2025-10-05,2025-10-07,Ana Júlia da Rocha,Marítimo,CHT-9S58,Montenegro de Rodrigues,Pereira,Atrasado
+2025-10-04,2025-10-06,Ryan Cardoso,Aéreo,KMD-9Y49,Abreu da Prata,Ferreira,Atrasado
+2025-10-17,2025-10-25,Liz Santos,Marítimo,CNM-4V38,Gonçalves,Araújo da Praia,Atrasado
+2025-10-29,2025-11-04,Luiz Otávio Pacheco,Rodoviário,JFP-9F24,Almeida,da Luz de da Cunha,Entregue
+2025-09-29,2025-10-08,Sofia Sá,Aéreo,QAY-2Y14,da Mota de Leão,Moraes,Atrasado
+2025-09-29,2025-10-03,Srta. Ayla Fogaça,Aéreo,DKD-3T86,da Costa da Mata,da Cunha,Atrasado
+2025-10-05,2025-10-12,Henry Lima,Rodoviário,TGZ-8F60,Ramos,Rezende,Atrasado
+2025-10-27,2025-10-28,Sr. Gael Fonseca,Aéreo,JKV-1L81,Fogaça,Aparecida de Lima,Atrasado
+2025-10-15,2025-10-24,Dr. Vitor Pimenta,Marítimo,JYK-8U47,Peixoto de Viana,Monteiro das Pedras,Entregue
+2025-09-29,2025-10-09,Danilo Peixoto,Marítimo,SUH-1A22,Ferreira Alegre,das Neves das Pedras,Atrasado
+2025-10-01,2025-10-08,Dr. Kaique Moura,Marítimo,SDE-8X67,Alves do Norte,Melo do Sul,Atrasado
+2025-10-09,2025-10-16,Henry Gabriel Cavalcante,Rodoviário,RFO-2L07,Rodrigues,Viana do Amparo,Entregue
+2025-09-29,2025-10-08,Dra. Sabrina da Cruz,Marítimo,IVR-1N05,Guerra,Rocha de Goiás,Entregue
+2025-10-26,2025-10-28,Levi Albuquerque,Rodoviário,GSO-4R13,Rios de Minas,Ferreira do Galho,Entregue
+2025-10-25,2025-11-02,Luísa Sousa,Marítimo,PNC-5O96,Pimenta,Casa Grande Alegre,Entregue
+2025-10-07,2025-10-16,Guilherme da Paz,Aéreo,BAU-2I45,Sales Paulista,Barros do Oeste,Entregue
+2025-10-07,2025-10-10,Ana Lívia Cavalcanti,Marítimo,JPW-6V24,Camargo,Martins da Prata,Atrasado
+2025-10-17,2025-10-26,Apollo Siqueira,Marítimo,ZAO-0Y48,Moura,Teixeira,Entregue
+2025-10-22,2025-10-28,Augusto Martins,Aéreo,PHG-3P00,Moura dos Dourados,Marques,Entregue
+2025-10-26,2025-11-05,Cauã Mendes,Rodoviário,FRR-6N66,Andrade,Castro de Vargas,Entregue
+2025-10-16,2025-10-19,Srta. Laura Costa,Aéreo,UKT-8J25,Monteiro,Porto dos Dourados,Entregue
+2025-10-06,2025-10-10,Dr. Benício Caldeira,Rodoviário,XHI-4U78,Teixeira,Sales,Atrasado
+2025-10-04,2025-10-08,Natália Araújo,Rodoviário,ARK-8R68,Siqueira,Lopes,Atrasado
+2025-10-17,2025-10-19,Dr. Liam Macedo,Rodoviário,RTF-5J51,Sousa,Casa Grande Alegre,Entregue
+2025-10-03,2025-10-08,Murilo Cassiano,Aéreo,GJW-3I81,Pires de Minas,Nogueira,Em Trânsito
+2025-10-12,2025-10-21,Thales Peixoto,Marítimo,RPT-8C90,Gomes da Serra,Alves de Minas,Em Trânsito
+2025-10-14,2025-10-16,Melina Câmara,Rodoviário,CBC-9Q30,Moreira da Prata,da Conceição da Praia,Atrasado
+2025-10-22,2025-10-23,Gabriela da Costa,Aéreo,HMD-6J79,Nunes,Alves,Atrasado
+2025-10-07,2025-10-09,Pietro da Cruz,Aéreo,JAR-5W52,Machado,Abreu da Mata,Em Trânsito
+2025-10-05,2025-10-12,Otávio Guerra,Aéreo,MOK-7W71,Marques,Pinto,Em Trânsito
+2025-10-10,2025-10-18,Stella Costa,Rodoviário,FBK-3M73,Vasconcelos,Azevedo Alegre,Em Trânsito
+2025-10-09,2025-10-11,Maria Clara da Costa,Rodoviário,SZK-8Y74,Barros,Guerra da Prata,Atrasado
+2025-10-01,2025-10-07,Rhavi Albuquerque,Aéreo,VOH-1L97,Nogueira de Pastor,Lopes das Flores,Entregue
+2025-10-19,2025-10-26,Maitê Alves,Marítimo,OML-0A99,Gonçalves,Guerra,Entregue
+2025-10-01,2025-10-07,Dom Sales,Aéreo,MDM-6C17,Novaes,Moura,Atrasado
+2025-10-15,2025-10-17,Mathias da Luz,Rodoviário,XHW-1C48,Moura Paulista,Mendonça de Minas,Atrasado
+2025-10-19,2025-10-26,Enzo da Conceição,Rodoviário,GZW-0X97,Barbosa,Caldeira do Galho,Atrasado
+2025-10-28,2025-10-31,Ravi Macedo,Rodoviário,QTV-2F44,da Conceição,Pires,Entregue
+2025-10-21,2025-10-23,Manuela Costa,Rodoviário,JVN-4E19,Fonseca da Prata,da Rosa,Entregue
+2025-10-11,2025-10-12,Vinicius Duarte,Rodoviário,CTW-4M10,Dias,Garcia,Em Trânsito
+2025-10-13,2025-10-23,Gustavo Henrique Moura,Rodoviário,XBC-0B11,Casa Grande do Oeste,Cassiano do Oeste,Entregue
+2025-10-16,2025-10-21,Gael Henrique Andrade,Rodoviário,BSC-1O68,da Conceição,Porto do Oeste,Em Trânsito
+2025-10-13,2025-10-17,Eduarda Barros,Marítimo,TRW-6Z13,Alves do Sul,Peixoto,Atrasado
+2025-10-25,2025-10-29,Júlia Correia,Rodoviário,XOZ-0S16,Rezende dos Dourados,Moura de Melo,Atrasado
+2025-09-29,2025-10-08,Raquel Rodrigues,Rodoviário,NLB-9J40,da Paz das Pedras,Sá de Freitas,Entregue
+2025-10-15,2025-10-17,Dante Aparecida,Rodoviário,WHZ-7G05,Ribeiro,da Mota Alegre,Entregue
+2025-10-21,2025-10-25,Maria Vitória Moura,Rodoviário,JQU-2K05,Silveira do Galho,Souza,Em Trânsito
+2025-10-16,2025-10-17,Agatha Castro,Rodoviário,ZAQ-1N19,Vargas de Goiás,Macedo,Em Trânsito
+2025-10-27,2025-10-28,Davi Luiz Alves,Rodoviário,CDB-8J39,Correia do Sul,Duarte,Atrasado
+2025-10-13,2025-10-14,Dr. Vinicius Marques,Aéreo,NDP-2Z46,Santos do Galho,Costela de Lima,Entregue
+2025-10-14,2025-10-20,Anthony Gabriel Cassiano,Rodoviário,XCZ-5C55,Lima,Fogaça,Entregue
+2025-10-02,2025-10-05,Ana da Cunha,Aéreo,DWR-8G69,Macedo,Pacheco,Em Trânsito
+2025-10-18,2025-10-25,Sra. Marina da Paz,Aéreo,TYD-9U65,Vasconcelos,Costela,Atrasado
+2025-10-17,2025-10-25,Sr. Noah Costa,Marítimo,BOG-7C89,Costa,Farias,Atrasado
+2025-10-24,2025-10-30,Rael Andrade,Marítimo,ZTO-4N65,da Rosa da Praia,Barros,Entregue
+2025-10-03,2025-10-11,Dra. Lara Fonseca,Rodoviário,KZW-6I19,Pires,Fernandes,Entregue
+2025-10-24,2025-10-27,Dr. Gael Carvalho,Aéreo,DUF-5Z35,da Rocha das Pedras,Sousa Verde,Entregue
+2025-09-30,2025-10-05,Maria Alice Vieira,Marítimo,TYJ-3I22,Viana,da Cruz Verde,Em Trânsito
+2025-10-02,2025-10-11,Joaquim Gomes,Marítimo,ADR-5Q88,Monteiro,Cavalcanti de Costa,Em Trânsito
+2025-10-16,2025-10-19,Mariah das Neves,Rodoviário,KET-9D65,Fonseca,Almeida do Campo,Atrasado
+2025-10-19,2025-10-23,Isaac Casa Grande,Aéreo,GYF-6Y65,Macedo,Sá do Sul,Entregue
+2025-10-13,2025-10-18,Otto Novaes,Marítimo,MNE-7M56,Pastor,Ferreira de Vieira,Entregue
+2025-10-06,2025-10-10,Luiz Fernando Ramos,Rodoviário,CDF-8J17,Vasconcelos,Pacheco do Norte,Em Trânsito
+2025-10-24,2025-11-02,Bárbara da Paz,Aéreo,WRR-6M60,Rezende,Cunha,Entregue
+2025-10-08,2025-10-14,Sr. Léo Peixoto,Rodoviário,PFO-2Y50,Carvalho da Praia,Camargo de Cirino,Atrasado
+2025-10-23,2025-11-02,Dr. Benício Siqueira,Rodoviário,ODO-1B38,Aragão da Praia,da Rocha de Nascimento,Entregue
+2025-10-13,2025-10-16,Pietra Viana,Rodoviário,OPM-4C46,Souza do Norte,da Rosa,Em Trânsito
+2025-10-23,2025-10-30,Agatha Almeida,Aéreo,BMR-9V92,da Rosa,Brito Paulista,Entregue
+2025-10-02,2025-10-06,Luana Cunha,Aéreo,YSZ-3T11,Cavalcante,Ferreira da Prata,Atrasado
+2025-10-29,2025-11-04,Marcela da Mota,Marítimo,RCR-4T70,Porto,da Mata de Goiás,Em Trânsito
+2025-10-04,2025-10-14,Leandro Monteiro,Marítimo,PNK-4X77,Cavalcanti Grande,Viana,Entregue
+2025-10-12,2025-10-16,Sr. Henry Dias,Marítimo,XSD-2W48,da Conceição,Cirino,Entregue
+2025-10-09,2025-10-18,Lucas Gabriel Cardoso,Rodoviário,HZY-8I23,Oliveira de da Luz,da Mota de Goiás,Em Trânsito
+2025-10-27,2025-11-01,Aurora Costela,Aéreo,QHT-0Z54,Martins Alegre,Carvalho,Em Trânsito
+2025-10-11,2025-10-19,Rafael Araújo,Marítimo,IWS-5L82,Souza,Rocha,Entregue
+2025-10-02,2025-10-12,Henry Gabriel Ferreira,Aéreo,OKN-8R77,Barbosa Grande,Nogueira,Atrasado
+2025-10-24,2025-11-03,Luiz Fernando Montenegro,Aéreo,CSL-8G24,Aragão,Moreira Verde,Atrasado
+2025-10-07,2025-10-08,Benjamim Cunha,Marítimo,SRN-1F64,Nunes,Borges do Sul,Entregue
+2025-10-19,2025-10-26,Olívia Mendonça,Marítimo,BBV-7O01,Pires,Nascimento do Oeste,Atrasado
+2025-10-17,2025-10-25,Helena Mendes,Rodoviário,DAL-6L57,Silva Paulista,da Paz,Atrasado
+2025-10-21,2025-10-24,Alice Caldeira,Rodoviário,JTJ-4Y48,Casa Grande de Gonçalves,Moraes,Em Trânsito
+2025-10-02,2025-10-09,Sr. Yago Novais,Rodoviário,ZCH-8M87,Viana,Silva Verde,Atrasado
+2025-10-04,2025-10-09,Alícia Barbosa,Marítimo,EAU-3T08,Caldeira Paulista,Campos,Atrasado
+2025-10-23,2025-11-01,Isabelly Moreira,Aéreo,TQL-6R38,Pastor,Campos,Entregue
+2025-10-25,2025-11-04,Marcela Mendes,Rodoviário,ZTA-3K24,Dias das Flores,Martins,Em Trânsito
+2025-10-28,2025-11-01,Stephany Azevedo,Rodoviário,NGX-6K54,Melo,Cunha de Viana,Entregue
+2025-10-18,2025-10-22,Sra. Ágatha Câmara,Aéreo,XLX-1R18,Brito de Farias,Mendes da Prata,Atrasado
+2025-10-06,2025-10-12,Dra. Maya Abreu,Rodoviário,SFB-7Q32,Borges do Campo,Cirino,Atrasado
+2025-09-29,2025-10-08,Miguel Porto,Rodoviário,BJA-0F63,Albuquerque,Mendes do Amparo,Em Trânsito
+2025-10-08,2025-10-10,Nina Moura,Aéreo,VDK-6Z20,Cassiano das Flores,Moraes,Em Trânsito
+2025-10-01,2025-10-02,Rodrigo Fernandes,Rodoviário,MCY-5P55,Melo Grande,Sá,Em Trânsito
+2025-10-28,2025-11-06,Thales Fogaça,Rodoviário,LWP-4D68,Silva do Norte,Sousa,Atrasado
+2025-10-10,2025-10-20,Oliver Rios,Marítimo,WEO-7K25,Souza de Castro,Gonçalves,Em Trânsito
+2025-10-23,2025-10-25,Sr. Theo Rios,Marítimo,CTF-1G23,Ramos da Mata,Fonseca,Atrasado
+2025-10-05,2025-10-14,Sr. Gael Henrique Mendonça,Rodoviário,SWL-9M86,Campos,Oliveira,Entregue
+2025-10-14,2025-10-15,Breno Casa Grande,Rodoviário,OWR-3G67,Vasconcelos do Galho,Cavalcante do Amparo,Atrasado
+2025-09-30,2025-10-05,Vitor Hugo Farias,Rodoviário,OLS-0N63,Moura Grande,Silveira Grande,Atrasado
+2025-10-20,2025-10-24,Igor Pires,Marítimo,NVH-5H81,Farias Paulista,Caldeira de Ribeiro,Entregue
+2025-10-23,2025-10-24,Allana Montenegro,Marítimo,HLP-9V16,Ramos,Araújo,Em Trânsito
+2025-10-16,2025-10-20,Srta. Emanuella Dias,Rodoviário,HCM-6D22,Cirino,Câmara,Entregue
+2025-10-19,2025-10-28,Oliver Castro,Aéreo,CSK-2O01,Pires,Rios das Flores,Em Trânsito
+2025-10-08,2025-10-18,Erick Ferreira,Aéreo,FXM-1C04,Santos Alegre,Novais,Entregue
+2025-10-17,2025-10-22,Luiz Felipe Andrade,Marítimo,FCL-6E40,Silveira de Silva,Freitas das Flores,Entregue
+2025-10-07,2025-10-11,Hadassa das Neves,Aéreo,FHW-9Q53,Rezende,Cassiano,Atrasado
+2025-10-02,2025-10-06,Ester Moraes,Rodoviário,QQL-6I14,Fernandes Grande,Duarte da Serra,Entregue
+2025-10-23,2025-10-30,Ana Cecília Leão,Rodoviário,RFB-0B73,Sá de Goiás,Nogueira,Entregue
+2025-10-21,2025-10-30,Sr. André das Neves,Aéreo,MTU-0S04,Fernandes,Novaes Alegre,Entregue
+2025-10-20,2025-10-28,Sr. Otto Cassiano,Aéreo,PDM-1L29,Almeida,Lima,Em Trânsito
+2025-10-05,2025-10-08,Lívia Ribeiro,Marítimo,AOZ-8T24,Alves da Praia,Porto Verde,Em Trânsito
+2025-09-29,2025-10-06,Sr. Luigi Pereira,Marítimo,QUG-3N10,Souza do Campo,Montenegro do Amparo,Em Trânsito
+2025-10-18,2025-10-27,Ísis Azevedo,Rodoviário,UCC-2S92,Cavalcante do Norte,Novaes,Entregue
+2025-09-30,2025-10-04,Srta. Ana Júlia Sá,Aéreo,AXY-0M17,Sá,Siqueira de Goiás,Entregue
+2025-10-23,2025-10-28,Josué Aragão,Aéreo,ZRJ-1Z45,Abreu,Melo,Entregue
+2025-10-24,2025-10-28,Dr. Vitor Hugo Oliveira,Aéreo,VDL-0R36,Costa de Minas,Aparecida,Atrasado
+2025-10-22,2025-10-24,Maria Liz Jesus,Rodoviário,EGD-3W65,Rocha,Cavalcanti,Em Trânsito
+2025-09-30,2025-10-10,Dom Silveira,Marítimo,JFN-9T40,Oliveira,Pires,Em Trânsito
+2025-10-24,2025-11-01,Davi Miguel Macedo,Rodoviário,GSP-7F90,da Mata,Novais do Sul,Em Trânsito
+2025-10-17,2025-10-20,Joaquim Jesus,Marítimo,MMK-2M72,Machado,Teixeira,Em Trânsito
+2025-10-02,2025-10-11,Pedro Lucas Pacheco,Rodoviário,VMF-0J71,Porto,Melo,Em Trânsito
+2025-10-02,2025-10-03,Theodoro Lima,Aéreo,CHP-9J94,Cardoso das Pedras,Carvalho da Mata,Entregue
+2025-10-12,2025-10-14,Vitor Hugo Ferreira,Marítimo,TOQ-7C01,Gonçalves,Nogueira Verde,Em Trânsito
+2025-10-13,2025-10-14,Rafaela Sales,Rodoviário,NCI-5B88,Rezende Alegre,Pacheco,Em Trânsito
+2025-10-27,2025-10-31,Carolina Albuquerque,Aéreo,KAQ-0C24,Oliveira,Teixeira,Em Trânsito
+2025-10-15,2025-10-18,Alícia Pastor,Rodoviário,QHI-0T67,Araújo,Castro,Atrasado
+2025-10-08,2025-10-11,Ana da Mota,Rodoviário,JMH-8B21,da Luz de Correia,Costa,Em Trânsito
+2025-10-21,2025-10-28,Ravi Macedo,Aéreo,JLN-8E96,Caldeira de Goiás,da Paz da Prata,Atrasado
+2025-10-01,2025-10-05,Bella Moura,Aéreo,UOE-9R26,da Rocha de Sampaio,Pimenta de Sampaio,Atrasado
+2025-10-01,2025-10-05,Gael Henrique da Rocha,Aéreo,GQN-2U52,Leão,Azevedo de Vieira,Atrasado
+2025-10-21,2025-10-22,Vitor Cirino,Aéreo,RHM-0E48,Moraes do Campo,Rocha,Em Trânsito
+2025-10-10,2025-10-14,Luiz Henrique Silveira,Marítimo,XYF-2V83,Costela da Prata,Albuquerque,Entregue
+2025-10-13,2025-10-23,Jade das Neves,Marítimo,VZH-7V26,Albuquerque da Mata,Rodrigues de Moraes,Entregue
+2025-10-14,2025-10-16,Maria Flor Abreu,Rodoviário,UCQ-4T86,Mendonça de Farias,Silveira do Galho,Em Trânsito
+2025-10-04,2025-10-11,Danilo Leão,Aéreo,XKT-4X03,Cardoso,da Luz de Barbosa,Em Trânsito
+2025-10-21,2025-10-24,Alice Camargo,Marítimo,TPN-9P60,Carvalho da Mata,Souza,Atrasado
+2025-10-29,2025-11-02,Luiz Felipe Garcia,Rodoviário,ZGS-9X20,Novaes,Barbosa de Melo,Entregue
+2025-10-27,2025-11-05,Sr. Henrique Ramos,Aéreo,OEH-3Z65,Costa,Sousa,Atrasado
+2025-10-19,2025-10-22,Samuel Rezende,Rodoviário,QSG-2N74,Borges,Jesus dos Dourados,Entregue
+2025-10-20,2025-10-29,Vicente Rios,Aéreo,HWN-9V19,Araújo,Mendes de Rodrigues,Em Trânsito
+2025-10-06,2025-10-12,Zoe Teixeira,Marítimo,UUU-4O93,da Mata de Minas,Pimenta do Oeste,Em Trânsito
+2025-10-07,2025-10-09,Arthur Gabriel Novaes,Aéreo,IGO-3Q50,Novaes de Goiás,Siqueira do Campo,Entregue
+2025-10-15,2025-10-24,Aylla Peixoto,Marítimo,KXS-1Z80,Silva Alegre,Araújo,Em Trânsito
+2025-09-29,2025-10-06,Luiz Gustavo Mendes,Rodoviário,SQE-1O23,Guerra dos Dourados,Brito de Ribeiro,Em Trânsito
+2025-10-24,2025-10-29,Sarah Borges,Aéreo,YOP-5B10,da Mata do Amparo,da Cunha,Em Trânsito
+2025-10-26,2025-11-03,Heloisa das Neves,Aéreo,GMG-0V45,Santos,Cavalcante da Serra,Entregue
+2025-10-27,2025-11-01,Sophia Brito,Rodoviário,OEP-9B77,Melo de Costa,Rezende,Em Trânsito
+2025-10-17,2025-10-18,Srta. Rebeca Gomes,Aéreo,ZWQ-9E69,Machado de da Cruz,Souza das Flores,Entregue
+2025-10-09,2025-10-16,Erick Barros,Rodoviário,HBA-3F71,Peixoto,Nascimento,Entregue
+2025-10-18,2025-10-22,Ana Carolina Mendonça,Marítimo,DOA-4R21,Martins do Oeste,Martins das Flores,Em Trânsito
+2025-10-26,2025-10-28,Lucca Novais,Marítimo,UHU-2F69,Rezende,Costela,Em Trânsito
+2025-10-16,2025-10-25,Joana da Rocha,Aéreo,AHT-7Q92,Araújo,Aragão do Campo,Em Trânsito
+2025-10-18,2025-10-27,Sr. Breno Rocha,Aéreo,HTR-2Z36,Almeida da Praia,Guerra,Em Trânsito
+2025-10-07,2025-10-14,Erick Cirino,Aéreo,SOQ-7V52,Gomes,Abreu Alegre,Atrasado
+2025-10-09,2025-10-12,Raul Vargas,Marítimo,UMQ-5W50,Rocha Paulista,Cassiano,Atrasado
+2025-10-03,2025-10-04,Luna Novaes,Marítimo,CIT-9J39,Machado,Fernandes de Martins,Atrasado
+2025-10-01,2025-10-11,Melissa Moura,Rodoviário,XKJ-5R61,Mendonça do Galho,Martins,Entregue
+2025-10-16,2025-10-26,Vitor Teixeira,Aéreo,ZQK-4U27,da Rosa do Oeste,Andrade,Atrasado
+2025-10-23,2025-10-24,Bella Peixoto,Marítimo,RIH-7H97,Pacheco,Peixoto,Atrasado
+2025-10-13,2025-10-20,Rafaela Santos,Marítimo,RBA-4M90,Sá de Oliveira,Cassiano Grande,Em Trânsito
+2025-10-24,2025-10-28,Dr. Benício Freitas,Aéreo,WVC-4Z69,Pimenta,Ramos,Atrasado
+2025-09-29,2025-10-06,Lucca Duarte,Aéreo,RKY-3M33,Farias do Norte,Silveira de Oliveira,Em Trânsito
+2025-10-28,2025-11-03,Evelyn Gonçalves,Marítimo,FQR-1X90,Cardoso de Mendes,Novaes,Entregue
+2025-10-07,2025-10-12,Srta. Julia Dias,Aéreo,LYC-2T51,Rocha,Ramos da Praia,Atrasado
+2025-10-23,2025-10-28,Apollo Ribeiro,Marítimo,QHA-0N79,Castro Paulista,Rodrigues de Rios,Em Trânsito
+2025-10-27,2025-10-30,Nicolas Montenegro,Aéreo,WUK-7Z49,Silva,Nunes do Amparo,Entregue
+2025-10-28,2025-10-30,Rhavi Machado,Aéreo,IOQ-5Y53,Ribeiro das Pedras,Correia,Atrasado
+2025-10-27,2025-11-04,Dr. Theo Souza,Aéreo,LDB-4A84,Jesus do Sul,Nascimento Alegre,Entregue
+2025-10-27,2025-10-31,Mariane Cavalcanti,Aéreo,JRN-7Z77,Freitas de Pimenta,Nascimento Verde,Entregue
+2025-10-28,2025-11-05,Arthur Miguel Fogaça,Rodoviário,ZMR-6D15,Almeida Alegre,Rezende de Minas,Em Trânsito
+2025-10-24,2025-11-03,Nicolas Camargo,Rodoviário,TJM-1N28,Nogueira de Novaes,Silveira da Praia,Entregue
+2025-10-15,2025-10-20,Luiz Otávio Camargo,Aéreo,JKM-1Q15,Montenegro de Goiás,Fonseca de Moreira,Atrasado
+2025-10-04,2025-10-06,João Miguel Aparecida,Aéreo,FNS-6J24,Melo,Farias,Atrasado
+2025-10-15,2025-10-21,Melissa da Paz,Aéreo,QQO-9R29,Rios,Moura,Em Trânsito
+2025-10-08,2025-10-10,Levi Abreu,Marítimo,NCB-4O85,Lima Alegre,Caldeira,Em Trânsito
+2025-10-06,2025-10-13,Dr. Thiago Sales,Marítimo,YEU-8Q52,Carvalho de Silva,Jesus,Em Trânsito
+2025-10-03,2025-10-05,Maria Albuquerque,Marítimo,TIC-1W16,Sousa das Pedras,Araújo de Carvalho,Em Trânsito
+2025-10-20,2025-10-25,Pietro Mendonça,Aéreo,JHK-8A76,Albuquerque,Pastor das Pedras,Em Trânsito
+2025-10-12,2025-10-13,Emilly Ferreira,Aéreo,ETM-0R27,Teixeira do Oeste,Cardoso do Oeste,Atrasado
+2025-10-07,2025-10-08,Benicio Castro,Aéreo,ZNY-2E05,Fonseca do Amparo,Cardoso do Campo,Atrasado
+2025-10-14,2025-10-23,Valentina Câmara,Rodoviário,BFW-7O86,da Luz do Campo,Fernandes de Pastor,Entregue
+2025-10-12,2025-10-14,Calebe Rezende,Aéreo,FNR-6M93,Aragão do Amparo,da Mata,Entregue
+2025-10-15,2025-10-24,Samuel Pinto,Aéreo,JGV-9J38,das Neves de Santos,Melo de Caldeira,Atrasado
+2025-10-24,2025-10-26,Sra. Eloá Nascimento,Aéreo,PLU-1Z73,Sousa,Melo do Campo,Entregue
+2025-10-16,2025-10-19,Thiago Jesus,Marítimo,BLD-1F22,Correia Grande,Andrade da Praia,Entregue
+2025-10-20,2025-10-22,Caio da Rosa,Rodoviário,QOA-6F97,Gonçalves,Vasconcelos de Goiás,Atrasado
+2025-10-08,2025-10-12,Alexandre da Cruz,Marítimo,BEM-9T09,Peixoto de Minas,Moraes do Campo,Entregue
+2025-10-20,2025-10-22,Rael Sales,Rodoviário,MUR-9K17,Monteiro,Jesus do Norte,Entregue
+2025-10-25,2025-11-03,Emilly Martins,Marítimo,PBA-8H41,Sousa,Araújo do Amparo,Entregue
+2025-10-04,2025-10-05,Dom Oliveira,Marítimo,JKX-2D86,Costa de Castro,Cirino de Mendonça,Atrasado
+2025-10-11,2025-10-17,Alexia da Mata,Marítimo,ZNK-7A21,Cavalcanti,Machado Grande,Atrasado
+2025-10-02,2025-10-05,Alexandre Brito,Aéreo,BNN-2Z95,Andrade das Pedras,Sá do Amparo,Entregue
+2025-10-11,2025-10-19,Noah Pastor,Marítimo,IMM-1J71,Rocha da Serra,Freitas de das Neves,Atrasado
+2025-10-23,2025-10-25,Olívia Gonçalves,Marítimo,LZF-0C55,Fernandes,Albuquerque,Entregue
+2025-10-09,2025-10-12,Benjamin Carvalho,Marítimo,LLX-0P85,Cavalcanti dos Dourados,Machado da Prata,Atrasado
+2025-10-19,2025-10-29,Bárbara Pereira,Aéreo,EFP-8P71,Martins,Borges,Em Trânsito
+2025-10-03,2025-10-10,Daniel Fogaça,Rodoviário,ZTB-6E41,Almeida,Costa de Oliveira,Entregue
+2025-10-24,2025-11-01,Júlia Almeida,Marítimo,IAX-1C45,Caldeira dos Dourados,Garcia de Vieira,Em Trânsito
+2025-09-30,2025-10-07,Arthur Melo,Aéreo,UHJ-2F96,Fernandes Verde,Ramos,Em Trânsito
+2025-10-26,2025-11-05,Rafael Pinto,Aéreo,ETF-3M36,Leão de da Costa,Almeida de Vieira,Entregue
+2025-10-04,2025-10-08,Antony Correia,Aéreo,HJU-5K79,Vieira dos Dourados,da Rosa da Serra,Entregue
+2025-10-12,2025-10-21,Rafaela Almeida,Marítimo,IES-7Q04,Fernandes da Mata,Nunes de Goiás,Entregue
+2025-09-30,2025-10-07,Maria Júlia Lima,Rodoviário,BSJ-5R47,Cardoso,Novais,Atrasado
+2025-10-02,2025-10-03,Arthur Gabriel Melo,Rodoviário,IRU-4S31,Brito,Montenegro,Entregue
+2025-10-07,2025-10-16,Enzo Barros,Rodoviário,DFC-8G86,Abreu da Mata,Farias,Em Trânsito
+2025-10-07,2025-10-16,Melina Jesus,Rodoviário,QVQ-2S12,Castro,Costa das Pedras,Atrasado
+2025-09-29,2025-10-03,Lorena Farias,Marítimo,TRE-8Q27,Martins de Nunes,Viana do Amparo,Entregue
+2025-10-20,2025-10-30,Dra. Juliana Rocha,Marítimo,NNO-5Q49,Câmara da Mata,Freitas Verde,Atrasado
+2025-10-20,2025-10-26,Dra. Giovanna Melo,Marítimo,MOS-2X17,Cardoso Verde,Lopes do Amparo,Entregue
+2025-10-25,2025-11-02,Ana Júlia Moraes,Aéreo,YFX-5K37,Sampaio de Fonseca,Souza do Norte,Entregue
+2025-10-10,2025-10-20,Davi Souza,Aéreo,MTF-4Z04,Brito,Pacheco,Em Trânsito
+2025-10-18,2025-10-23,Srta. Joana Vasconcelos,Aéreo,GMO-7X63,Cassiano da Serra,Novaes,Atrasado
+2025-10-03,2025-10-11,Bryan Vargas,Rodoviário,BDE-8D89,Vargas Paulista,da Mota,Entregue
+2025-10-22,2025-10-24,Matheus Cunha,Rodoviário,KEE-0X22,Alves do Amparo,Mendonça,Entregue
+2025-10-24,2025-10-29,Arthur Gabriel Sampaio,Rodoviário,NOG-1J30,Ferreira Grande,Aparecida,Entregue
+2025-10-12,2025-10-16,Srta. Caroline Andrade,Aéreo,XHH-5D08,Costela de Moreira,da Cruz,Atrasado
+2025-10-17,2025-10-18,Mariane Azevedo,Marítimo,GCY-7U89,Cirino Grande,Fogaça,Em Trânsito
+2025-10-01,2025-10-10,Amanda Rodrigues,Aéreo,NGF-6N38,Gonçalves,Campos de Moura,Atrasado
+2025-10-20,2025-10-29,Luiz Felipe Castro,Rodoviário,ABH-1D76,Barros da Prata,Casa Grande da Mata,Atrasado
+2025-10-23,2025-11-01,Murilo Cardoso,Aéreo,FUZ-8T87,Aparecida das Flores,Borges,Em Trânsito
+2025-10-08,2025-10-16,Isabela Macedo,Marítimo,GID-8R05,Câmara de Minas,Brito de Martins,Entregue
+2025-10-01,2025-10-08,Olivia Borges,Aéreo,TUO-8B06,Mendonça,Silveira,Em Trânsito
+2025-10-21,2025-10-25,Beatriz da Mata,Marítimo,QMZ-8L03,Fogaça de Melo,Pimenta,Em Trânsito
+2025-10-16,2025-10-18,Mathias Caldeira,Rodoviário,HUV-1D41,Vasconcelos,Gomes,Em Trânsito
+2025-10-15,2025-10-24,Srta. Julia Siqueira,Marítimo,YZU-7U57,da Cunha de Macedo,Nogueira,Em Trânsito
+2025-10-17,2025-10-18,Isis Brito,Aéreo,JQY-6P77,Sá,Andrade de da Rocha,Entregue
+2025-10-04,2025-10-09,Dr. Bryan Campos,Marítimo,RZV-7W06,da Cunha,Novaes da Praia,Entregue
+2025-10-22,2025-10-27,Maria Vitória Fernandes,Aéreo,EWG-0E64,Duarte da Praia,Barros,Atrasado
+2025-10-12,2025-10-16,Luana Fonseca,Marítimo,VCP-7P12,Rios de da Luz,Abreu de Novaes,Entregue
+2025-10-20,2025-10-22,Enzo Gabriel Leão,Marítimo,SAC-9X68,Silva,Cavalcanti da Prata,Em Trânsito
+2025-10-16,2025-10-24,Davi Miguel Barros,Rodoviário,STP-5T29,Almeida do Amparo,da Paz das Flores,Atrasado
+2025-10-04,2025-10-08,Maya Montenegro,Rodoviário,CCQ-6L07,Nogueira de Almeida,Cavalcante de Nunes,Em Trânsito
+2025-10-16,2025-10-23,Enrico Vieira,Aéreo,VFY-9L87,Pires,Cavalcanti,Entregue
+2025-10-23,2025-10-27,Stephany Ramos,Marítimo,ZTW-8U17,Barbosa da Prata,Rocha do Norte,Entregue
+2025-10-05,2025-10-10,Maria Câmara,Rodoviário,HFK-8S78,Pinto de Azevedo,Garcia,Em Trânsito
+2025-10-07,2025-10-15,José Pedro Ribeiro,Aéreo,AYM-9T31,Ferreira,Monteiro do Norte,Entregue
+2025-10-03,2025-10-10,Vicente Moraes,Marítimo,UQZ-7J28,Macedo,da Conceição da Praia,Entregue
+2025-10-15,2025-10-22,Caleb Viana,Aéreo,HJT-2D86,Santos,Barbosa,Atrasado
+2025-10-07,2025-10-11,Ravi Lucca Aragão,Rodoviário,YZM-2C43,Leão,Fogaça de das Neves,Em Trânsito
+2025-10-23,2025-10-31,Lunna Porto,Marítimo,YWP-3R99,Sousa da Praia,Cavalcanti,Atrasado
+2025-10-09,2025-10-11,Marcelo Teixeira,Rodoviário,KUS-3P17,Martins,Cavalcanti de Alves,Atrasado
+2025-10-17,2025-10-19,Aurora Moraes,Marítimo,QKP-2F65,Martins Grande,Vargas da Mata,Entregue
+2025-10-26,2025-10-30,Sra. Mariane Rezende,Aéreo,PJZ-8G02,Barros,Sá,Entregue
+2025-10-08,2025-10-11,Nathan Costa,Aéreo,PCI-1C29,Cavalcanti,Souza dos Dourados,Entregue
+2025-10-18,2025-10-23,André Carvalho,Aéreo,RGW-6B80,Brito do Campo,Mendes Grande,Atrasado
+2025-10-20,2025-10-29,Benício Vasconcelos,Aéreo,EHB-1N76,Alves Verde,Araújo da Prata,Atrasado
+2025-10-24,2025-10-30,Lorena Souza,Aéreo,XXL-0I51,Pereira de Moraes,Casa Grande de das Neves,Entregue
+2025-10-18,2025-10-21,Maria Júlia Gomes,Aéreo,QEG-5V02,Casa Grande,das Neves,Entregue
+2025-10-06,2025-10-13,Henry Gabriel Farias,Aéreo,NUG-1U39,Cardoso,Moreira,Em Trânsito
+2025-09-29,2025-10-09,Hellena Costa,Marítimo,SAN-8D39,Machado,da Rocha,Atrasado
+2025-10-03,2025-10-13,Murilo Araújo,Marítimo,CXH-8P58,Costa,Lopes,Entregue
+2025-10-16,2025-10-20,Mariana da Cunha,Aéreo,CJU-3V14,Moura do Norte,Fonseca,Em Trânsito
+2025-10-02,2025-10-12,Alícia Camargo,Marítimo,RZK-7Z65,Cunha da Prata,Fernandes de Sá,Atrasado
+2025-10-15,2025-10-16,Luiz Gustavo Silveira,Rodoviário,YKH-1G96,Machado do Galho,Cassiano do Norte,Entregue
+2025-10-12,2025-10-18,Luiza Marques,Rodoviário,GGI-4Z81,Lopes Grande,Cassiano,Atrasado
+2025-10-04,2025-10-09,Dr. Anthony Gabriel Guerra,Rodoviário,UOX-8N12,Melo,Cassiano do Campo,Em Trânsito
+2025-10-09,2025-10-17,Anthony Azevedo,Marítimo,BUF-1C31,Ferreira de Goiás,Caldeira do Amparo,Atrasado
+2025-10-18,2025-10-27,Maria Clara Rocha,Marítimo,DDY-4T71,Mendonça,Peixoto de Goiás,Atrasado
+2025-10-09,2025-10-15,Ester Lima,Rodoviário,ZEQ-6C87,Silveira de Vargas,Moreira da Praia,Atrasado
+2025-10-05,2025-10-06,Dra. Maria Julia Andrade,Aéreo,NRD-5P49,Fogaça de Sales,Pastor,Atrasado
+2025-10-05,2025-10-11,Pedro Lucas Oliveira,Aéreo,JSG-3L33,Costa,Dias,Atrasado
+2025-10-01,2025-10-06,Hadassa Peixoto,Rodoviário,BOV-5W95,Aparecida,Sampaio,Em Trânsito
+2025-10-01,2025-10-08,Pedro Henrique Correia,Aéreo,ILQ-7I29,Araújo,Pereira,Em Trânsito
+2025-10-16,2025-10-21,Liz da Cunha,Marítimo,IGZ-1K29,Pastor,Moreira do Oeste,Atrasado
+2025-10-03,2025-10-12,Josué da Luz,Marítimo,MNS-5L98,Santos das Flores,Pastor do Sul,Atrasado
+2025-10-27,2025-11-05,Dra. Caroline Leão,Marítimo,ZBY-5B06,da Mata,Souza,Em Trânsito
+2025-10-12,2025-10-16,Theo Oliveira,Marítimo,IXU-3L38,Pimenta,Alves,Em Trânsito
+2025-10-11,2025-10-14,Dr. José Pedro Guerra,Aéreo,UWG-5D55,Cassiano de Porto,Machado,Atrasado
+2025-10-23,2025-11-01,Luiz Otávio Teixeira,Marítimo,ZML-0F40,Novaes,Pacheco,Atrasado
+2025-10-23,2025-11-01,Léo Porto,Aéreo,VYQ-0H64,Novais de Silva,Cavalcanti da Serra,Em Trânsito
+2025-10-21,2025-10-29,Ana Sophia Dias,Aéreo,BRL-6D17,Vargas de da Conceição,Campos dos Dourados,Entregue
+2025-10-28,2025-11-04,Sr. Théo Teixeira,Marítimo,EWY-1W32,Pinto,Moraes,Em Trânsito
+2025-10-24,2025-10-31,Dra. Ísis Fernandes,Marítimo,MMM-2Q92,Silva de Caldeira,Guerra,Atrasado
+2025-10-24,2025-10-31,Srta. Maria Alice Alves,Aéreo,CFY-5X52,Sousa,Rezende Grande,Atrasado
+2025-09-29,2025-10-06,Kevin Sampaio,Marítimo,RHG-7K45,Vieira Verde,Montenegro de das Neves,Em Trânsito
+2025-10-06,2025-10-15,Nina Teixeira,Aéreo,FWJ-3P24,Mendes da Praia,Nascimento,Em Trânsito
+2025-10-27,2025-11-06,Nicole Costa,Rodoviário,RCP-1B19,Pastor,Pires Paulista,Atrasado
+2025-10-12,2025-10-22,Sr. Lucas das Neves,Aéreo,YBR-4E19,Aragão das Pedras,Casa Grande,Em Trânsito
+2025-10-17,2025-10-20,José Pedro Nunes,Marítimo,XIA-4W45,Lopes,Sampaio,Entregue
+2025-10-17,2025-10-23,Diego Albuquerque,Marítimo,UUD-7T11,Fogaça do Oeste,Dias do Galho,Atrasado
+2025-10-18,2025-10-28,Dr. Heitor Oliveira,Marítimo,YYN-3D27,Mendonça do Sul,Marques,Atrasado
+2025-10-28,2025-11-05,Asafe Correia,Aéreo,TUB-4I92,Fogaça,Correia,Em Trânsito
+2025-10-11,2025-10-12,Asafe Siqueira,Marítimo,HHB-0A35,da Costa das Pedras,Abreu de Cirino,Entregue
+2025-10-14,2025-10-20,Ravy Oliveira,Aéreo,REP-4H97,Martins,Nunes da Mata,Em Trânsito
+2025-09-30,2025-10-10,Nathan Cardoso,Marítimo,JXK-2Q16,Macedo,Correia Paulista,Atrasado
+2025-10-05,2025-10-06,João Guilherme Vieira,Marítimo,PUC-5Z53,Lopes de Macedo,Campos,Atrasado
+2025-10-04,2025-10-07,Ana Julia Brito,Rodoviário,IVZ-8C33,Borges dos Dourados,Souza,Atrasado
+2025-10-10,2025-10-13,Heloísa Sousa,Marítimo,KET-1S59,Pimenta do Campo,Cardoso,Atrasado
+2025-10-05,2025-10-12,Maria Alice Alves,Rodoviário,APL-1F68,Ribeiro Paulista,Abreu,Entregue
+2025-10-26,2025-11-03,Theodoro Azevedo,Rodoviário,AHJ-9Q67,Leão da Praia,Araújo,Em Trânsito
+2025-10-28,2025-11-05,Dr. Enzo Fogaça,Aéreo,SVS-9M88,Almeida do Galho,Fernandes,Atrasado
+2025-10-24,2025-11-01,Maria Eduarda Alves,Rodoviário,NJZ-9K10,Costela Alegre,Caldeira,Em Trânsito
+2025-10-20,2025-10-25,Emanuella Porto,Rodoviário,SWZ-3D35,das Neves das Pedras,Teixeira,Em Trânsito
+2025-10-18,2025-10-20,Emilly da Cunha,Rodoviário,NNT-8O69,Garcia,Garcia de Dias,Entregue
+2025-10-14,2025-10-19,Anthony Rodrigues,Marítimo,TCL-7S55,Barros,Cunha,Entregue
+2025-10-10,2025-10-16,Antonella Moreira,Rodoviário,FRL-0S01,Borges,Novaes,Entregue
+2025-10-16,2025-10-26,Ana Cecília Barros,Rodoviário,KBX-7R18,Alves,Costela de Machado,Atrasado
+2025-10-07,2025-10-15,Anna Liz da Conceição,Rodoviário,FQI-0K79,Alves,Fogaça do Campo,Em Trânsito
+2025-10-09,2025-10-17,Emanuelly Camargo,Rodoviário,WXV-3X38,da Costa,Leão,Em Trânsito
+2025-10-01,2025-10-05,Mariane Souza,Marítimo,RYY-8N95,Araújo do Amparo,Sales de Goiás,Em Trânsito
+2025-10-24,2025-10-30,Raquel Gonçalves,Aéreo,WIT-5F48,Leão,da Cunha,Atrasado
+2025-10-27,2025-11-06,Maria Julia da Cruz,Aéreo,ZVS-2D03,Costa,Pimenta,Em Trânsito
+2025-10-02,2025-10-10,Emanuella da Mota,Aéreo,ZIH-6V37,Cavalcante dos Dourados,Araújo,Entregue
+2025-10-05,2025-10-10,Marina da Paz,Marítimo,AMX-8Q43,Gonçalves do Campo,Jesus,Em Trânsito
+2025-10-08,2025-10-10,Srta. Joana Brito,Marítimo,JME-4E66,Aparecida do Amparo,Câmara do Sul,Em Trânsito
+2025-10-15,2025-10-16,Hadassa Ramos,Aéreo,TCU-3V29,Duarte,Macedo,Em Trânsito
+2025-10-25,2025-10-29,Dante Cavalcante,Marítimo,LDF-6U75,Brito da Prata,Pereira,Entregue
+2025-10-21,2025-10-24,Isis Correia,Rodoviário,CVR-7E59,Pastor da Serra,Araújo de Rocha,Entregue
+2025-09-29,2025-10-02,Arthur Gabriel Rocha,Rodoviário,SAP-5V45,Albuquerque,Araújo das Flores,Entregue
+2025-10-05,2025-10-13,Théo Aparecida,Rodoviário,IME-6U46,Pimenta de da Cunha,Sá,Entregue
+2025-10-09,2025-10-15,Olivia Vieira,Rodoviário,EOH-4Q30,da Mota da Prata,Novaes do Galho,Em Trânsito
+2025-10-06,2025-10-14,Dante Campos,Marítimo,MSQ-5Q87,Sampaio,Souza,Atrasado
+2025-10-09,2025-10-18,Sr. Marcelo Ribeiro,Marítimo,MWV-2F87,Moreira,Viana,Entregue
+2025-10-07,2025-10-09,Caleb Brito,Aéreo,OOC-6V87,Teixeira do Oeste,da Luz,Em Trânsito
+2025-10-04,2025-10-07,Gabriela Ribeiro,Aéreo,YCN-8L27,Nogueira,da Luz,Atrasado
+2025-10-27,2025-11-06,Valentim Sampaio,Aéreo,UOW-3A90,Pinto do Sul,Moura,Entregue
+2025-10-08,2025-10-10,Ísis Cavalcanti,Aéreo,RXJ-5A50,Azevedo Verde,Santos,Em Trânsito
+2025-10-21,2025-10-30,Sr. Yuri Mendonça,Rodoviário,YEV-8X02,da Rocha,Cunha da Prata,Entregue
+2025-10-05,2025-10-15,Bryan Castro,Marítimo,JIO-3J11,Câmara,Lima,Entregue
+2025-10-05,2025-10-06,Srta. Mariane Nogueira,Aéreo,PJY-5D16,Vargas,Albuquerque,Entregue
+2025-10-05,2025-10-09,Heloisa Cavalcante,Rodoviário,YVP-1S32,Casa Grande,Moreira,Em Trânsito
+2025-10-11,2025-10-13,Dra. Gabriela Pereira,Marítimo,BUU-1T52,Campos do Campo,Teixeira,Atrasado
+2025-10-29,2025-10-30,Dr. Emanuel Lopes,Aéreo,OSS-1H90,Pimenta da Praia,Cardoso de Aparecida,Em Trânsito
+2025-10-06,2025-10-07,Renan Barros,Aéreo,WSC-8J04,Andrade de Minas,Azevedo Verde,Entregue
+2025-10-23,2025-10-27,Sr. Theo Leão,Rodoviário,APF-0H62,Azevedo dos Dourados,Monteiro,Atrasado
+2025-10-23,2025-11-01,Cecilia da Conceição,Aéreo,YAP-5G67,da Mata,Fogaça do Campo,Entregue
+2025-10-15,2025-10-25,Laura Peixoto,Marítimo,BCG-0X77,Santos de Correia,da Costa,Atrasado
+2025-09-29,2025-10-01,José Nascimento,Aéreo,NCG-0H19,Fogaça,Silveira de Melo,Em Trânsito
+2025-10-12,2025-10-22,Oliver Rezende,Rodoviário,DWT-9I02,Cavalcanti da Serra,Cunha,Em Trânsito
+2025-10-21,2025-10-30,Alice Sampaio,Marítimo,EDC-8M74,Novaes,Rocha,Entregue
+2025-10-01,2025-10-07,Sra. Mariane Vieira,Aéreo,PYZ-3T34,Novaes Alegre,Sales dos Dourados,Em Trânsito
+2025-10-23,2025-10-29,Lucca Azevedo,Marítimo,CVZ-1I79,Silva,da Paz do Norte,Atrasado
+2025-10-19,2025-10-27,Vinícius Costela,Aéreo,JNG-2H00,Moraes da Mata,Melo de Campos,Atrasado
+2025-10-18,2025-10-26,Emilly Lopes,Rodoviário,HIM-1E42,Farias do Sul,Cassiano do Campo,Atrasado
+2025-10-16,2025-10-20,Ester Silveira,Rodoviário,KKA-0K84,Carvalho,Freitas do Oeste,Entregue
+2025-10-19,2025-10-20,Vicente Cardoso,Marítimo,COP-2U37,Jesus de Cavalcanti,da Mata,Atrasado
+2025-10-14,2025-10-19,Julia Pastor,Rodoviário,DSI-7G74,da Cruz da Serra,Cavalcanti da Mata,Atrasado
+2025-10-26,2025-10-31,Clara Cardoso,Aéreo,RKN-4Z83,Camargo de Goiás,Cunha,Em Trânsito
+2025-10-03,2025-10-08,Davi Lucca Pires,Marítimo,BSJ-8L68,Azevedo,da Cunha,Atrasado
+2025-10-02,2025-10-07,Maria Helena Cavalcante,Aéreo,OCL-4R16,Ferreira,da Paz Alegre,Atrasado
+2025-10-12,2025-10-15,Liam Correia,Aéreo,KGM-6Y71,Aparecida de Monteiro,Peixoto,Entregue
+2025-10-29,2025-11-04,Henrique da Costa,Marítimo,ZHX-4F90,Marques do Campo,Oliveira,Em Trânsito
+2025-10-25,2025-10-31,Yago Camargo,Marítimo,LAY-7N68,da Luz,Costa Paulista,Atrasado
+2025-10-22,2025-11-01,Kevin Ribeiro,Rodoviário,WIV-1T32,Moraes da Praia,Jesus da Praia,Entregue
+2025-10-28,2025-11-07,Arthur Montenegro,Aéreo,HRV-4C71,Sampaio,Vieira,Em Trânsito
+2025-10-10,2025-10-12,Srta. Isadora Souza,Marítimo,DZN-1P43,Dias do Campo,Freitas de Minas,Entregue
+2025-10-17,2025-10-19,Sr. José Gomes,Rodoviário,OFC-6Z39,Borges,Casa Grande,Entregue
+2025-10-29,2025-11-01,Mariane Garcia,Aéreo,DWI-2Z14,Aragão de Garcia,Ferreira,Atrasado
+2025-10-15,2025-10-22,Cecília Ribeiro,Rodoviário,QRU-1Q07,Sousa,Gomes,Entregue
+2025-10-06,2025-10-16,Clara Brito,Rodoviário,NSN-3J76,Pereira,Lopes,Atrasado
+2025-10-20,2025-10-30,Sr. Vinicius Vieira,Rodoviário,FYJ-6Q00,Cavalcanti do Amparo,Pastor,Em Trânsito
+2025-10-12,2025-10-13,Allana da Rocha,Aéreo,LEG-5H72,Pereira de Alves,Pires,Entregue
+2025-10-16,2025-10-21,Cauã Leão,Marítimo,NAQ-4O75,Ribeiro,Andrade de Mendonça,Atrasado
+2025-10-02,2025-10-09,Luiz Henrique Carvalho,Aéreo,ERB-2P16,Souza,Mendonça de Sampaio,Em Trânsito
+2025-10-10,2025-10-19,Melissa Ferreira,Marítimo,WBW-6F86,Cavalcanti da Mata,Dias Verde,Em Trânsito
+2025-10-03,2025-10-07,Dra. Stella Abreu,Rodoviário,RHP-0B81,Casa Grande,Cunha do Oeste,Entregue
+2025-09-30,2025-10-07,Miguel Barbosa,Aéreo,EWM-7T14,Leão,Rodrigues das Pedras,Entregue
+2025-10-15,2025-10-20,Ravi Lucca Mendonça,Rodoviário,EAD-9N85,Oliveira de Goiás,Borges,Atrasado
+2025-10-01,2025-10-02,Júlia Nascimento,Rodoviário,NMP-7L32,Ramos,Moraes,Atrasado
+2025-10-17,2025-10-23,Melissa Melo,Aéreo,FFY-1Q07,Rios Grande,Cavalcanti de Lima,Atrasado
+2025-10-15,2025-10-19,Daniel Ferreira,Rodoviário,TXE-2X65,Cardoso do Galho,Carvalho da Mata,Atrasado
+2025-10-09,2025-10-16,João Aparecida,Aéreo,GVD-5Q02,Alves do Norte,Novaes,Em Trânsito
+2025-10-13,2025-10-16,Melissa Almeida,Aéreo,JHM-3E37,Borges dos Dourados,Ferreira do Galho,Atrasado
+2025-10-14,2025-10-16,Antônio Viana,Aéreo,MPC-9Q29,da Cunha de Barbosa,Peixoto de Farias,Entregue
+2025-10-23,2025-10-28,Isabella Vasconcelos,Aéreo,FWV-6J66,da Mota Alegre,Moraes,Entregue
+2025-10-19,2025-10-21,Sr. Ravi Lucca Camargo,Rodoviário,HSQ-4T50,Pereira da Praia,Moreira Grande,Atrasado
+2025-10-10,2025-10-12,Luana Monteiro,Marítimo,MWG-4B26,Novaes,Cunha,Atrasado
+2025-10-06,2025-10-09,Bernardo Castro,Rodoviário,JEP-6C83,Monteiro,Aparecida da Serra,Atrasado
+2025-10-05,2025-10-12,Allana Nascimento,Aéreo,DRI-4A46,Correia,Oliveira de Silva,Entregue
+2025-10-11,2025-10-19,Srta. Joana Macedo,Marítimo,QIB-7I82,Barros Paulista,Peixoto,Atrasado
+2025-10-15,2025-10-18,Noah Guerra,Marítimo,RJY-8B32,Cassiano Alegre,Albuquerque Paulista,Entregue
+2025-10-04,2025-10-11,João Felipe Cirino,Rodoviário,XLG-5O61,Pereira das Pedras,Fogaça,Em Trânsito
+2025-10-10,2025-10-14,Brayan da Conceição,Aéreo,CHJ-6U45,da Luz,Martins,Em Trânsito
+2025-10-23,2025-10-29,Sr. Luiz Otávio Nunes,Marítimo,FMK-7W66,da Cunha,Ferreira,Atrasado
+2025-10-23,2025-10-29,Nicole Silva,Rodoviário,XUR-5U22,Guerra,Novaes de Rodrigues,Entregue
+2025-10-27,2025-10-29,Pedro Henrique Gomes,Aéreo,MVW-8L19,Cassiano de Minas,Campos dos Dourados,Em Trânsito
+2025-09-30,2025-10-03,Luiz Miguel Pastor,Rodoviário,ZHD-9M29,Sampaio da Prata,Brito,Entregue
+2025-09-30,2025-10-05,Ana Vitória das Neves,Marítimo,MWH-0K47,Dias,Costela de Goiás,Atrasado
+2025-10-10,2025-10-14,Davi Lucca Santos,Aéreo,THT-7O43,Abreu,Siqueira da Prata,Atrasado
+2025-10-11,2025-10-14,Hadassa Cavalcanti,Aéreo,JLZ-7X25,Pacheco de Macedo,Teixeira,Entregue
+2025-10-01,2025-10-11,Antônio Moura,Rodoviário,VYK-2V15,Pinto,Rezende da Praia,Entregue
+2025-10-23,2025-10-26,Apollo Jesus,Aéreo,JQF-3I62,da Cunha das Pedras,Azevedo da Prata,Entregue
+2025-10-05,2025-10-06,Dr. Arthur Miguel Costela,Aéreo,SHD-5P54,Barros,da Conceição,Em Trânsito
+2025-10-28,2025-11-07,Maysa da Paz,Marítimo,KAW-9X09,Siqueira,Sampaio do Sul,Atrasado
+2025-10-21,2025-10-26,Cauê Aparecida,Aéreo,ZLP-2N42,Rios,Leão,Entregue
+2025-10-19,2025-10-27,Bruno Mendes,Aéreo,LSC-8O60,Mendonça da Mata,Andrade,Atrasado
+2025-10-26,2025-11-05,Gabriela Cirino,Marítimo,VHD-3L45,da Conceição,Abreu,Atrasado
+2025-09-29,2025-10-03,Clara Lima,Marítimo,CPT-3J42,Sá,Borges,Em Trânsito
+2025-10-09,2025-10-16,Breno Gonçalves,Rodoviário,GGW-5F74,Aragão,Viana,Entregue
+2025-10-10,2025-10-13,Ravi Melo,Marítimo,BZI-2V37,Albuquerque,Caldeira do Amparo,Em Trânsito
+2025-10-04,2025-10-05,Dra. Mariane Borges,Aéreo,FCF-1T05,Cunha das Pedras,Machado,Atrasado
+2025-10-15,2025-10-23,Sra. Aylla Nascimento,Aéreo,OAS-9J11,Oliveira,da Cunha,Atrasado
+2025-10-28,2025-11-05,Pedro Lucas Nogueira,Aéreo,SSJ-2N39,Cavalcante,Macedo Grande,Em Trânsito
+2025-10-21,2025-10-24,Stephany Fogaça,Aéreo,KDJ-8K26,Nogueira,da Rocha,Atrasado
+2025-10-08,2025-10-11,Ana Luiza Novaes,Aéreo,GUB-7C73,Costa da Praia,Carvalho,Em Trânsito
+2025-10-10,2025-10-20,Rael Pinto,Aéreo,PWB-5O23,da Paz,Albuquerque,Entregue
+2025-10-26,2025-10-27,Levi Farias,Marítimo,AFC-0H96,Pires de Goiás,da Luz Paulista,Em Trânsito
+2025-10-23,2025-11-01,Benjamim Ribeiro,Marítimo,VRH-9G68,Pimenta,Cardoso de Abreu,Entregue
+2025-10-23,2025-10-27,Rebeca Pires,Rodoviário,LNR-9F64,Garcia das Pedras,Borges do Galho,Atrasado
+2025-09-29,2025-10-01,Dr. Benjamin Cassiano,Rodoviário,KIQ-7P73,Fonseca de Monteiro,Moraes,Entregue
+2025-10-17,2025-10-20,Maria Júlia Pastor,Rodoviário,RGI-7A28,Cavalcante,Rios,Em Trânsito
+2025-10-29,2025-10-30,Ana Clara Mendes,Aéreo,CZF-6N69,Aparecida,Gomes das Pedras,Entregue
+2025-10-14,2025-10-16,Stella Pereira,Rodoviário,ALW-5D93,Fernandes,Marques,Em Trânsito
+2025-10-12,2025-10-19,Luana Martins,Marítimo,YHC-3F41,Nascimento do Sul,Fonseca de Rocha,Atrasado
+2025-10-25,2025-11-04,Maria Leão,Rodoviário,HPR-0W18,da Cunha do Campo,Pimenta Paulista,Atrasado
+2025-10-24,2025-10-29,Benjamin Fogaça,Aéreo,RPH-2B09,Nunes,Dias dos Dourados,Atrasado
+2025-09-29,2025-10-03,Francisco Sampaio,Marítimo,FQO-1Y98,Ribeiro Alegre,Cardoso de Barros,Atrasado
+2025-10-11,2025-10-12,Ana Julia Correia,Aéreo,YUH-9Q04,da Costa,Barbosa das Pedras,Em Trânsito
+2025-10-07,2025-10-11,Antony Vieira,Marítimo,DCS-8W17,da Costa da Mata,Castro do Campo,Entregue
+2025-10-12,2025-10-15,Bruno Camargo,Rodoviário,IFI-9T35,Leão do Sul,Borges,Atrasado
+2025-10-13,2025-10-21,Isabella Gomes,Rodoviário,LQV-1V22,Monteiro do Galho,Campos Paulista,Entregue
+2025-10-23,2025-10-29,Hellena da Rosa,Rodoviário,QZN-4U92,Borges do Sul,Camargo de Brito,Em Trânsito
+2025-10-22,2025-10-30,Maria Luísa Cunha,Rodoviário,BYI-3V38,Garcia do Norte,Rocha,Atrasado
+2025-10-07,2025-10-17,Luiz Henrique Gomes,Rodoviário,SGX-6X70,Pereira,Aragão de Goiás,Em Trânsito
+2025-10-03,2025-10-12,Thales Mendes,Rodoviário,GFP-1K54,Borges,Carvalho do Norte,Entregue
+2025-10-26,2025-11-02,Henry Rezende,Aéreo,PGD-4P67,Moreira,Fonseca,Atrasado
+2025-09-29,2025-10-03,Breno Silveira,Aéreo,WNI-6N48,Macedo do Galho,da Rosa,Em Trânsito
+2025-10-28,2025-11-03,Thales Pereira,Aéreo,QKL-1E12,Novaes de Vieira,da Rocha,Entregue
+2025-10-03,2025-10-04,Sra. Esther Macedo,Marítimo,IBJ-9D87,Gomes Grande,Porto,Atrasado
+2025-10-19,2025-10-21,Joana Alves,Rodoviário,SXB-8D57,da Cruz do Norte,Albuquerque do Galho,Entregue
+2025-10-08,2025-10-09,Rhavi Rodrigues,Rodoviário,WDR-6Y51,Moraes,Oliveira,Atrasado
+2025-10-14,2025-10-19,Dra. Isadora Souza,Rodoviário,GLB-4V05,da Mota,Oliveira de Minas,Em Trânsito
+2025-10-07,2025-10-10,Yasmin Jesus,Aéreo,OJE-5R28,Montenegro,Santos da Serra,Entregue
+2025-10-13,2025-10-16,Gabriel Brito,Rodoviário,FSY-0J56,Marques de Goiás,Pereira Grande,Entregue
+2025-10-14,2025-10-15,Lucas Almeida,Marítimo,VHD-0S66,Nogueira,Santos Verde,Em Trânsito
+2025-10-23,2025-10-31,Arthur Gabriel Cunha,Aéreo,BZU-3P27,Rios de Fonseca,Caldeira,Em Trânsito
+2025-10-12,2025-10-15,Ana Beatriz Sales,Rodoviário,KRR-0C67,Carvalho Alegre,Ribeiro,Atrasado
+2025-10-10,2025-10-13,Brayan Câmara,Aéreo,AVL-3H65,Fonseca,Castro,Atrasado
+2025-10-16,2025-10-24,Kevin Cardoso,Aéreo,QLP-1J03,Rios,Campos do Oeste,Atrasado
+2025-09-29,2025-10-03,Dr. Bruno Fernandes,Rodoviário,XJE-4U51,Gonçalves,da Mota de Minas,Em Trânsito
+2025-10-06,2025-10-09,Sra. Evelyn da Rocha,Marítimo,KEC-3S31,Duarte,Jesus,Atrasado
+2025-10-14,2025-10-16,Sra. Hadassa Freitas,Marítimo,XHQ-4Y73,Almeida,Jesus das Flores,Entregue
+2025-10-05,2025-10-14,Anna Liz Alves,Aéreo,WRF-7C39,Fogaça da Serra,Borges,Entregue
+2025-10-23,2025-10-30,Benício Monteiro,Marítimo,HQM-9Y43,da Paz,Azevedo de Pires,Em Trânsito
+2025-09-29,2025-10-04,Maya da Luz,Rodoviário,YXP-5Q19,Araújo,Ferreira do Sul,Em Trânsito
+2025-10-03,2025-10-12,Maria Isis da Conceição,Marítimo,NSM-9Y57,Pires de Caldeira,Cavalcante,Entregue
+2025-10-09,2025-10-12,João Nascimento,Marítimo,USG-4K35,Peixoto de Goiás,Vieira de Goiás,Entregue
+2025-10-14,2025-10-24,Pietra Lima,Aéreo,IVT-9N44,Lopes,Souza Verde,Atrasado
+2025-10-23,2025-11-01,Fernando Carvalho,Rodoviário,PQF-7M05,Caldeira Paulista,Cassiano Verde,Em Trânsito
+2025-10-28,2025-10-31,Felipe Nascimento,Rodoviário,BWM-3S83,Brito da Prata,Garcia do Campo,Em Trânsito
+2025-10-10,2025-10-16,Cauã Pacheco,Rodoviário,FBI-1A56,da Rocha,da Rocha de Azevedo,Atrasado
+2025-10-18,2025-10-19,Davi Camargo,Aéreo,UXQ-0Z82,Novaes,Gonçalves de Minas,Atrasado
+2025-10-22,2025-10-24,Maria Liz Melo,Rodoviário,YKF-3C65,da Cunha do Sul,Azevedo,Entregue
+2025-10-07,2025-10-09,Marcelo Nogueira,Marítimo,CUE-4D74,Monteiro,Montenegro,Em Trânsito
+2025-09-30,2025-10-06,Dr. Emanuel Oliveira,Aéreo,KRL-1H53,Pereira,Fogaça das Flores,Entregue
+2025-10-26,2025-10-29,Sra. Isabel Novais,Rodoviário,VHF-9I29,Machado da Praia,Pereira da Mata,Entregue
+2025-10-21,2025-10-30,Luana Ferreira,Marítimo,VXK-4C16,Rodrigues da Praia,Nunes do Campo,Entregue
+2025-10-15,2025-10-18,Marcos Vinicius das Neves,Marítimo,PLL-3P23,Gomes da Praia,Fernandes,Atrasado
+2025-10-03,2025-10-05,Rafaela Martins,Marítimo,YKC-2A69,Lopes,da Mata,Em Trânsito
+2025-10-09,2025-10-12,Alana da Cunha,Marítimo,WKR-9G62,Jesus,Montenegro,Atrasado
+2025-10-05,2025-10-13,Sra. Maya Rodrigues,Rodoviário,VCY-8E21,Silveira,Pinto da Praia,Atrasado
+2025-10-20,2025-10-26,Maria Isis Costa,Rodoviário,BXC-4I52,da Cruz,Sales de Rezende,Entregue
+2025-09-30,2025-10-03,Pietra Moraes,Rodoviário,KHR-7Z17,da Cruz,Lima,Em Trânsito
+2025-10-29,2025-11-07,Maria Helena Lima,Aéreo,WSI-4K83,Moraes,Abreu da Praia,Entregue
+2025-09-29,2025-10-01,Valentina Rodrigues,Aéreo,ABL-7C93,Melo,Rezende,Em Trânsito
+2025-10-10,2025-10-16,Enzo Gabriel Aragão,Rodoviário,GMZ-5M26,da Cruz,Borges,Atrasado
+2025-10-22,2025-10-25,Sra. Stella Alves,Rodoviário,NXM-7I81,Pastor de Azevedo,Peixoto,Atrasado
+2025-10-24,2025-10-31,Mirella Cavalcanti,Rodoviário,BES-7U96,Costela dos Dourados,Martins,Atrasado
+2025-10-19,2025-10-26,Stephany da Cruz,Marítimo,SED-8H11,Pacheco,Moraes de Sousa,Atrasado
+2025-10-02,2025-10-10,Diego Fernandes,Marítimo,IPW-4Y26,Barros de Freitas,Azevedo,Em Trânsito
+2025-09-30,2025-10-01,Luiz Otávio Moreira,Marítimo,LCV-8U85,Vieira,da Rocha,Entregue
+2025-10-15,2025-10-23,Sra. Mirella Fogaça,Aéreo,MBF-8N86,Pires do Galho,Siqueira,Atrasado
+2025-10-24,2025-10-31,Dr. Caleb Novaes,Rodoviário,SHL-9Q98,Correia,Araújo da Mata,Atrasado
+2025-10-15,2025-10-24,Rafael da Paz,Aéreo,IAP-1H33,Viana Verde,Brito,Atrasado
+2025-10-06,2025-10-08,Pedro Pereira,Marítimo,RWN-4Y74,Camargo,Fonseca,Atrasado
+2025-10-29,2025-11-08,Isabela Vieira,Rodoviário,WWK-9B19,Fogaça da Praia,da Mata,Atrasado
+2025-10-11,2025-10-21,Henry Monteiro,Aéreo,KEB-8F15,Azevedo Verde,Vieira de Camargo,Atrasado
+2025-10-08,2025-10-12,Pietro Moura,Aéreo,PBV-3V81,Vasconcelos,Nunes das Flores,Entregue
+2025-10-06,2025-10-13,Gabrielly Siqueira,Marítimo,ZBF-5S81,Nogueira dos Dourados,Silveira,Em Trânsito
+2025-10-16,2025-10-23,Sra. Ana Laura Macedo,Marítimo,VEE-6E64,Souza,Sousa de Ferreira,Entregue
+2025-09-30,2025-10-03,Maria Helena Dias,Rodoviário,MNP-0B30,da Luz Verde,Peixoto da Serra,Atrasado
+2025-10-22,2025-10-24,Benjamin Araújo,Marítimo,XVQ-0J93,Gonçalves de da Paz,Aparecida do Galho,Entregue
+2025-10-06,2025-10-07,Maria Laura Ferreira,Aéreo,TYQ-1X83,Abreu de Siqueira,da Conceição do Norte,Atrasado
+2025-10-20,2025-10-26,Sofia Casa Grande,Marítimo,AQE-1D80,da Cunha de Jesus,Alves de Goiás,Em Trânsito
+2025-10-10,2025-10-16,Manuella Jesus,Rodoviário,VLX-8R47,da Cruz,da Mota do Galho,Atrasado
+2025-10-08,2025-10-13,Sofia Rocha,Rodoviário,HUC-0I26,Jesus,Cassiano de Goiás,Em Trânsito
+2025-10-11,2025-10-12,Isabelly Lima,Marítimo,AFS-8H13,Brito de Gomes,Porto,Entregue
+2025-10-29,2025-11-02,Beatriz da Mata,Rodoviário,AOT-0R43,Pacheco,Marques do Norte,Em Trânsito
+2025-10-05,2025-10-06,Nicole Pinto,Marítimo,ZGA-4I31,Cavalcanti de Goiás,Aragão,Entregue
+2025-10-21,2025-10-31,Ísis Câmara,Marítimo,IQY-0J22,Araújo de Goiás,Sampaio,Em Trânsito
+2025-10-09,2025-10-18,Antônio das Neves,Aéreo,VTG-6C86,da Costa,Silva do Oeste,Em Trânsito
+2025-10-27,2025-11-03,Gabriel Mendonça,Aéreo,QYQ-7D76,Oliveira Verde,Novaes,Em Trânsito
+2025-10-22,2025-10-24,Isadora Ferreira,Rodoviário,SAT-0C76,Porto,Gonçalves,Atrasado
+2025-10-10,2025-10-13,Marcela Camargo,Marítimo,VKB-1C43,Machado,Dias de Minas,Em Trânsito
+2025-10-24,2025-10-26,Benjamin Cavalcanti,Marítimo,LFC-1K33,Costela,Azevedo,Atrasado
+2025-10-02,2025-10-05,Matteo da Luz,Aéreo,YZJ-3H75,Guerra da Praia,Camargo de Lopes,Atrasado
+2025-10-24,2025-10-27,Lavínia Castro,Rodoviário,SDD-0I58,Marques da Prata,Fernandes,Em Trânsito
+2025-10-12,2025-10-15,Joaquim da Rocha,Rodoviário,DNC-3E44,Moura,da Mata,Atrasado
+2025-10-09,2025-10-16,Lavínia da Paz,Aéreo,VDI-8P98,da Conceição da Prata,Costa de Minas,Em Trânsito
+2025-10-19,2025-10-26,Dra. Maria Alice Gonçalves,Rodoviário,HQP-6A81,Souza,das Neves de Minas,Em Trânsito
+2025-10-10,2025-10-13,Heloísa Martins,Aéreo,BRN-2Y06,da Rocha,Teixeira das Pedras,Atrasado
+2025-10-10,2025-10-20,Vitória Sales,Rodoviário,KXV-1M98,das Neves,Pimenta,Atrasado
+2025-10-20,2025-10-25,Lucas Farias,Aéreo,DGB-9W58,Dias de Sampaio,Borges,Atrasado
+2025-10-28,2025-11-07,Breno da Luz,Aéreo,GXJ-3M67,Cavalcante do Campo,Campos de Minas,Em Trânsito
+2025-10-17,2025-10-18,Enzo Gabriel Montenegro,Marítimo,RAR-2D53,Borges dos Dourados,Aparecida,Entregue
+2025-10-18,2025-10-20,Ana Clara Fernandes,Aéreo,VPV-7V71,Viana do Amparo,Dias,Atrasado
+2025-09-30,2025-10-08,Sr. Gabriel Cavalcanti,Aéreo,VYW-5K61,Farias da Prata,Mendonça de Silva,Atrasado
+2025-10-05,2025-10-08,Luan Rezende,Aéreo,BBI-8E83,Casa Grande,Ferreira Verde,Atrasado
+2025-10-27,2025-11-04,Dr. Diogo Borges,Marítimo,CNT-3I95,Pereira,Borges,Entregue
+2025-10-14,2025-10-21,Marina Sousa,Rodoviário,ZIQ-3X95,Pereira,Fernandes das Pedras,Entregue
+2025-10-14,2025-10-16,Gabriela da Conceição,Aéreo,QGH-3D77,Pinto,da Cruz,Entregue
+2025-10-23,2025-10-26,Calebe Correia,Rodoviário,DPU-8F01,Borges,Rezende dos Dourados,Em Trânsito
+2025-10-07,2025-10-11,Clara Moreira,Aéreo,ZER-8R82,Rios,Mendes,Em Trânsito
+2025-10-18,2025-10-27,Caroline Jesus,Marítimo,KCL-1A75,Araújo,Caldeira,Atrasado
+2025-10-19,2025-10-22,Felipe Silva,Marítimo,CZB-8J26,Cardoso,Freitas,Atrasado
+2025-10-19,2025-10-23,Julia Guerra,Aéreo,NVY-5K40,Monteiro,Abreu,Entregue
+2025-10-10,2025-10-18,Alícia Porto,Aéreo,EEU-4G95,Martins,Porto,Entregue
+2025-10-25,2025-10-27,Laís Garcia,Marítimo,VAQ-7O79,Silva do Norte,da Mata dos Dourados,Entregue
+2025-10-15,2025-10-23,Josué Barbosa,Aéreo,CFX-1L01,Peixoto,Vasconcelos,Em Trânsito
+2025-10-15,2025-10-24,Luara Gonçalves,Aéreo,DRA-4A48,da Cruz,Monteiro,Atrasado
+2025-10-24,2025-11-02,Bárbara Rodrigues,Rodoviário,PTZ-5B24,Aparecida,Azevedo,Atrasado
+2025-10-01,2025-10-07,Olívia Caldeira,Marítimo,LDP-3X93,Nunes do Norte,Guerra do Galho,Entregue
+2025-10-27,2025-10-29,Heloisa da Luz,Marítimo,EBC-6O80,Fogaça da Praia,Rocha,Em Trânsito
+2025-10-26,2025-10-31,Cauê Peixoto,Rodoviário,ADW-7K16,Pimenta,Rocha das Pedras,Atrasado
+2025-10-15,2025-10-19,Francisco Almeida,Aéreo,OAJ-2W46,Pastor dos Dourados,Rios de Pinto,Em Trânsito
+2025-10-14,2025-10-23,Marcos Vinicius Jesus,Aéreo,ZVZ-2A75,Fogaça de Albuquerque,da Luz,Em Trânsito
+2025-10-24,2025-10-30,João Gabriel Peixoto,Marítimo,RJO-5E25,Novaes,Silveira,Em Trânsito
+2025-10-28,2025-11-03,Luigi das Neves,Marítimo,UJB-5R52,Pacheco,Araújo do Galho,Atrasado
+2025-10-27,2025-10-31,Anthony Gabriel Sampaio,Rodoviário,FUN-1D12,Câmara,Borges dos Dourados,Entregue
+2025-10-10,2025-10-11,Dante Jesus,Marítimo,IMK-7G37,Viana Alegre,Almeida de Cardoso,Em Trânsito
+2025-10-22,2025-10-23,Anthony Gabriel Barros,Rodoviário,RAD-5Z53,Camargo do Campo,Rezende,Entregue
+2025-10-16,2025-10-25,Daniel Dias,Marítimo,NMK-3V05,Camargo Alegre,Araújo,Entregue
+2025-10-18,2025-10-21,Stella Araújo,Marítimo,NHN-3J57,Nogueira,Mendonça das Flores,Entregue
+2025-10-09,2025-10-18,Isadora Cardoso,Rodoviário,YAB-4I79,Novais,Ramos do Campo,Em Trânsito
+2025-10-27,2025-10-31,Laura Moreira,Rodoviário,KTK-7I33,Nascimento de Goiás,Siqueira do Campo,Em Trânsito
+2025-09-29,2025-10-04,Heloisa da Rocha,Rodoviário,PIF-3V17,Rezende,Mendonça,Atrasado
+2025-10-29,2025-11-06,Maria Julia Farias,Rodoviário,BFM-0L22,Ferreira da Serra,da Conceição de Cavalcante,Entregue
+2025-10-21,2025-10-30,Heloisa Peixoto,Marítimo,YPP-2M65,Porto,Pinto Alegre,Entregue
+2025-10-29,2025-10-30,Laís Lima,Rodoviário,OGO-3T22,da Luz do Galho,Silveira,Atrasado
+2025-10-23,2025-10-27,Maria Vitória Cavalcanti,Marítimo,GKI-9T77,Novais Alegre,da Mota de Abreu,Em Trânsito
+2025-10-05,2025-10-06,Anthony Gabriel da Cruz,Marítimo,PUK-2E78,Oliveira,Brito da Serra,Em Trânsito
+2025-10-20,2025-10-26,Srta. Daniela Barros,Marítimo,VNV-1D89,Farias de da Costa,Abreu,Atrasado
+2025-10-11,2025-10-21,Luan da Costa,Rodoviário,IAO-3R99,Monteiro de Minas,Brito,Em Trânsito
+2025-10-21,2025-10-30,Juliana da Mata,Marítimo,JSW-7Z73,Silva do Oeste,Sales,Atrasado
+2025-10-11,2025-10-20,João Guilherme Costela,Aéreo,YHD-3P38,Araújo,Cunha da Mata,Entregue
+2025-10-21,2025-10-28,Leonardo Barbosa,Marítimo,VJY-6B71,Almeida,da Rosa,Entregue
+2025-10-11,2025-10-20,Fernando Gomes,Aéreo,IGZ-5U67,Almeida,Mendonça da Praia,Entregue
+2025-10-25,2025-10-26,Dr. Lorenzo Andrade,Marítimo,LXJ-2T78,Lopes,Gomes da Mata,Atrasado
+2025-10-03,2025-10-12,Alexandre Albuquerque,Rodoviário,QPW-6X53,da Luz,Araújo de Goiás,Entregue
+2025-10-22,2025-10-25,Augusto Freitas,Marítimo,CFN-5Z37,Casa Grande de Minas,Siqueira,Atrasado
+2025-10-20,2025-10-22,Luan Barros,Aéreo,PNT-5G57,Fogaça,da Rocha do Galho,Atrasado
+2025-10-22,2025-10-23,Srta. Julia Gonçalves,Marítimo,NNH-9Q25,Ramos,Camargo,Em Trânsito
+2025-10-25,2025-10-29,José Pastor,Aéreo,OES-6X81,Vargas,Farias,Atrasado
+2025-10-05,2025-10-10,Gael Cavalcanti,Marítimo,XXX-3L41,Lopes Verde,Albuquerque do Campo,Entregue
+2025-10-01,2025-10-03,Maria Luísa Farias,Marítimo,PEG-2V48,Pastor,Aparecida,Entregue
+2025-10-16,2025-10-19,Maria Vitória Almeida,Aéreo,ZMY-8T28,Silva Grande,Jesus,Atrasado
+2025-10-20,2025-10-28,Davi Miguel Borges,Rodoviário,IGU-9H55,Ribeiro de Silveira,Viana do Amparo,Atrasado
+2025-09-29,2025-10-05,Hadassa Macedo,Marítimo,UGF-2I96,Casa Grande,Peixoto de Minas,Em Trânsito
+2025-09-30,2025-10-06,Bernardo Siqueira,Aéreo,TPR-0O84,Pereira de Goiás,Cassiano,Atrasado
+2025-10-04,2025-10-11,Samuel Farias,Marítimo,XVQ-4K17,Gomes,Abreu da Prata,Entregue
+2025-10-11,2025-10-13,Maria Luiza Pacheco,Rodoviário,KXG-4Z39,Nogueira da Serra,Leão Paulista,Entregue
+2025-10-20,2025-10-21,Amanda Camargo,Aéreo,CGD-1N39,Pimenta da Serra,Oliveira de Goiás,Atrasado
+2025-10-08,2025-10-13,Gustavo Henrique Costela,Aéreo,DGU-2Z16,Fonseca de Caldeira,Teixeira do Norte,Em Trânsito
+2025-10-05,2025-10-15,Manuela Nunes,Marítimo,YSF-9W44,Pinto das Pedras,Castro,Atrasado
+2025-10-18,2025-10-23,Ayla da Costa,Aéreo,WGG-8J88,Silveira das Flores,da Luz das Flores,Entregue
+2025-10-19,2025-10-23,Vitor Carvalho,Aéreo,WRI-1M32,Melo de Guerra,Montenegro do Norte,Entregue
+2025-10-01,2025-10-02,Luísa da Cruz,Rodoviário,JBD-3P00,Pimenta de Fonseca,Dias do Sul,Atrasado
+2025-10-10,2025-10-20,Maria Isis da Costa,Aéreo,VYI-2G55,das Neves Alegre,Albuquerque,Atrasado
+2025-10-04,2025-10-06,Srta. Amanda Costa,Rodoviário,LZO-9Y73,Peixoto,Nogueira,Atrasado
+2025-10-27,2025-11-06,Letícia Camargo,Aéreo,AEK-7Y56,da Costa,Carvalho,Em Trânsito
+2025-10-17,2025-10-19,Rafael da Rocha,Aéreo,CEF-5I90,da Mata do Sul,Castro,Em Trânsito
+2025-10-17,2025-10-20,Maria Helena Alves,Rodoviário,HLQ-6Y81,Fogaça,Castro,Atrasado
+2025-10-19,2025-10-26,Matteo Melo,Aéreo,MTK-6N76,Camargo,Montenegro do Oeste,Entregue
+2025-10-17,2025-10-26,Gabriel Pires,Marítimo,EBE-8L05,Teixeira,Fogaça,Atrasado
+2025-10-10,2025-10-19,Anthony Moraes,Aéreo,QZG-0T77,Guerra,Aragão,Atrasado
+2025-10-10,2025-10-12,Yuri da Mota,Rodoviário,BAS-8J16,Lopes de Cirino,Guerra,Em Trânsito
+2025-10-09,2025-10-14,Renan Mendes,Aéreo,UHH-8X08,Macedo de Ribeiro,Siqueira,Em Trânsito
+2025-10-20,2025-10-24,Srta. Joana Barbosa,Marítimo,TMG-0R02,Rocha das Flores,Marques,Entregue
+2025-10-09,2025-10-14,Ana Lívia Lima,Marítimo,TGC-3U39,da Conceição de Barbosa,Costa de da Mata,Entregue
+2025-10-28,2025-10-29,Sr. Renan Garcia,Aéreo,DHV-2S96,da Paz da Mata,Borges,Entregue
+2025-10-16,2025-10-21,Isabela Monteiro,Aéreo,ZYO-0S00,Melo,da Luz do Campo,Em Trânsito
+2025-10-18,2025-10-27,Ana Luiza Cunha,Rodoviário,FGY-5H90,Pimenta,Garcia Alegre,Em Trânsito
+2025-10-20,2025-10-26,Anthony Gabriel Duarte,Rodoviário,BWH-8R33,Pastor do Norte,da Mata,Atrasado
+2025-10-08,2025-10-17,Ravi Lucca Marques,Aéreo,QST-4V01,Vargas,Fogaça de Goiás,Entregue
+2025-10-24,2025-10-30,Kamilly Caldeira,Rodoviário,HTC-1A59,Ferreira de Pacheco,Mendonça,Entregue
+2025-10-23,2025-11-01,Alícia Sampaio,Aéreo,TPN-6B44,Fernandes,da Rosa da Prata,Atrasado
+2025-10-08,2025-10-14,Caleb Borges,Aéreo,LRA-7S35,Aragão,Siqueira de Borges,Em Trânsito
+2025-10-14,2025-10-21,Ana Laura Cavalcanti,Aéreo,JDD-2M31,da Conceição,Lima das Pedras,Entregue
+2025-10-23,2025-10-24,Isis Câmara,Aéreo,MUF-2N37,Carvalho,Sá,Entregue
+2025-10-11,2025-10-18,Stella Marques,Aéreo,TEK-3L67,Dias,Monteiro,Em Trânsito
+2025-10-20,2025-10-26,Caroline Pastor,Rodoviário,YVA-7M38,Novaes,Cavalcante do Galho,Atrasado
+2025-10-13,2025-10-19,Antônio Souza,Aéreo,SWU-1C54,Viana do Campo,Borges de Fonseca,Entregue
+2025-10-21,2025-10-26,Bento Garcia,Rodoviário,JXF-0T33,Pimenta,Pires de da Paz,Em Trânsito
+2025-10-02,2025-10-04,Lunna Campos,Rodoviário,GLZ-0B77,Camargo,Fonseca,Em Trânsito
+2025-10-10,2025-10-14,Ísis Sousa,Aéreo,FFB-8R13,Leão,Leão da Praia,Entregue
+2025-10-15,2025-10-23,Nicolas Costa,Aéreo,CXU-4F79,Cassiano Grande,Dias,Entregue
+2025-10-12,2025-10-14,Antônio Moraes,Aéreo,WXI-5Q29,Gomes,Cardoso,Atrasado
+2025-10-04,2025-10-09,Josué Caldeira,Rodoviário,CSZ-6Z63,Gonçalves,Freitas do Norte,Entregue
+2025-10-02,2025-10-04,Ana Beatriz Costa,Marítimo,SOH-3X02,Pastor,Silva da Prata,Atrasado
+2025-10-10,2025-10-18,Gael Pimenta,Aéreo,BFJ-1C88,Montenegro,Nunes de Goiás,Atrasado
+2025-10-12,2025-10-16,Léo Leão,Rodoviário,QPL-2R03,Câmara,da Mota,Entregue
+2025-10-01,2025-10-04,Aurora da Mota,Marítimo,XUY-2U31,Andrade de Novaes,Aragão,Atrasado
+2025-10-16,2025-10-17,Gabrielly Pires,Rodoviário,DYA-5K11,Teixeira,Monteiro das Flores,Atrasado
+2025-10-29,2025-11-04,Joana Leão,Rodoviário,ANE-4E37,Montenegro,Marques,Entregue
+2025-10-11,2025-10-12,Aurora Pereira,Rodoviário,YYE-5N49,Castro,Casa Grande de Cavalcanti,Em Trânsito
+2025-10-12,2025-10-15,Stephany Montenegro,Rodoviário,XQR-5T14,Jesus,Leão Alegre,Em Trânsito
+2025-10-18,2025-10-25,Caio Vargas,Aéreo,ERU-1M39,Câmara do Amparo,Peixoto de Nogueira,Entregue
+2025-10-15,2025-10-21,Valentina Cavalcante,Marítimo,KGC-6G02,Moraes,Borges,Entregue
+2025-10-01,2025-10-10,Sra. Lorena Melo,Rodoviário,RIM-9Q97,Castro,Silveira,Entregue
+2025-10-12,2025-10-13,Manuella Sales,Rodoviário,CDQ-3B53,Farias,Montenegro da Prata,Atrasado
+2025-10-01,2025-10-04,Henrique Cunha,Aéreo,WEN-3Y15,Freitas,das Neves,Entregue
+2025-10-18,2025-10-25,Juliana Almeida,Rodoviário,ZBZ-4X35,Gomes de da Cunha,Cardoso das Pedras,Entregue
+2025-10-04,2025-10-09,Ana Júlia Caldeira,Marítimo,BAX-2D31,Andrade,Silveira,Entregue
+2025-10-11,2025-10-14,Stella da Rosa,Marítimo,WRC-0L04,Andrade Paulista,Peixoto,Atrasado
+2025-10-04,2025-10-08,Júlia Albuquerque,Rodoviário,OTP-6H64,Mendonça,Cassiano de da Mata,Atrasado
+2025-10-13,2025-10-14,Dr. Liam Cunha,Aéreo,ZYH-0M15,Alves de Barbosa,Nogueira da Mata,Em Trânsito
+2025-10-21,2025-10-30,Maysa Correia,Rodoviário,DMU-5M83,Cavalcante do Norte,Moraes,Atrasado
+2025-10-14,2025-10-21,Valentina da Costa,Rodoviário,XZL-0E64,Pires,Cavalcanti,Entregue
+2025-10-05,2025-10-11,Srta. Maria Luísa Monteiro,Aéreo,SFR-9E83,Lopes,Nascimento,Entregue
+2025-10-25,2025-11-04,Felipe Gonçalves,Rodoviário,WUH-2A50,Freitas,Garcia,Atrasado
+2025-10-09,2025-10-13,Ana Carolina Pimenta,Marítimo,MCZ-4O35,Duarte das Flores,Martins do Oeste,Em Trânsito
+2025-10-02,2025-10-12,Maria Sophia Azevedo,Aéreo,BHF-8X09,Sá de Vargas,Ramos da Mata,Em Trânsito
+2025-10-21,2025-10-29,Alexia Pacheco,Rodoviário,IUN-3P58,Pereira,Campos,Entregue
+2025-10-17,2025-10-19,Raquel Marques,Rodoviário,TQO-4S14,Rezende das Pedras,Moura do Campo,Em Trânsito
+2025-10-29,2025-11-03,Maria Isis Aparecida,Rodoviário,XZS-2Y47,Fogaça,Silveira,Entregue
+2025-10-20,2025-10-29,Dr. Dom Casa Grande,Rodoviário,QIR-2W35,Campos,Dias de Machado,Entregue
+2025-10-15,2025-10-18,Sr. João Gabriel Brito,Aéreo,IDM-9N00,Souza,Rios,Atrasado
+2025-10-02,2025-10-12,Stella Caldeira,Aéreo,DXR-9M82,Rodrigues da Mata,Silva,Entregue
+2025-10-23,2025-10-27,Ana Laura Costela,Rodoviário,ZSK-8N08,Teixeira da Serra,Moreira da Praia,Em Trânsito
+2025-10-03,2025-10-06,Dr. João Miguel Martins,Rodoviário,ZRQ-0W26,Araújo Verde,Siqueira da Mata,Atrasado
+2025-10-28,2025-10-29,Felipe da Cruz,Marítimo,SZY-6R12,Peixoto de Minas,Machado das Flores,Em Trânsito
+2025-10-24,2025-11-01,Josué Cassiano,Aéreo,PZY-4K78,Costela do Galho,da Luz da Praia,Atrasado
+2025-10-17,2025-10-25,Stella Silva,Marítimo,SFB-3U78,Pastor,Ribeiro Alegre,Atrasado
+2025-10-17,2025-10-19,Dr. Antony Moraes,Marítimo,BJU-4W18,Vasconcelos,Dias de Teixeira,Entregue
+2025-09-30,2025-10-02,Srta. Lorena Camargo,Rodoviário,CNQ-2G91,Rodrigues,Moraes,Entregue
+2025-10-04,2025-10-12,Sra. Stephany Leão,Marítimo,YXE-5N46,Barbosa de Goiás,Marques dos Dourados,Atrasado
+2025-10-13,2025-10-20,Yasmin Melo,Rodoviário,JPV-5G19,da Rosa,Martins da Praia,Em Trânsito
+2025-10-18,2025-10-21,Dr. Calebe Ribeiro,Aéreo,PDE-3F56,Abreu,Cavalcante da Prata,Em Trânsito
+2025-10-17,2025-10-24,Pietra Sá,Rodoviário,HJU-0A39,Pimenta,Mendes dos Dourados,Atrasado
+2025-10-18,2025-10-19,Dr. Davi Monteiro,Aéreo,VTS-2M54,Farias de Siqueira,Cavalcante de Goiás,Atrasado
+2025-10-19,2025-10-23,Thales Pinto,Aéreo,RWM-0Z49,Ramos de Leão,Ribeiro de Sousa,Em Trânsito
+2025-10-04,2025-10-12,Emilly Pereira,Rodoviário,CWU-8K73,Martins de Cassiano,da Luz,Em Trânsito
+2025-10-16,2025-10-20,Gabrielly Sales,Aéreo,MIQ-5W67,Albuquerque Alegre,Correia,Em Trânsito
+2025-10-21,2025-10-31,Dra. Maitê Monteiro,Rodoviário,QND-0H90,Martins,Rodrigues das Pedras,Em Trânsito
+2025-10-01,2025-10-07,Sr. Vinicius da Conceição,Rodoviário,DBI-1K34,Porto Alegre,da Paz de Porto,Entregue
+2025-09-29,2025-10-05,João Miguel Cassiano,Aéreo,QVM-0X79,Aragão,Pastor de Minas,Entregue
+2025-10-08,2025-10-12,Sra. Maria Porto,Marítimo,SBG-5Y58,Mendes,Casa Grande de Goiás,Atrasado
+2025-10-20,2025-10-23,Julia Almeida,Rodoviário,QDQ-5F55,Vieira de Siqueira,da Costa de Cunha,Entregue
+2025-10-23,2025-10-26,Bernardo Rios,Marítimo,SKF-1C72,Casa Grande do Norte,Campos do Sul,Atrasado
+2025-10-17,2025-10-19,Josué Montenegro,Marítimo,BEX-2G93,Oliveira de Goiás,Porto de Minas,Entregue
+2025-10-16,2025-10-24,Maria Luiza Pinto,Marítimo,VUN-0C00,Sampaio do Oeste,da Mota dos Dourados,Em Trânsito
+2025-10-23,2025-10-29,Sophie Moura,Rodoviário,ZQV-8F57,das Neves,Dias,Em Trânsito
+2025-10-17,2025-10-22,Ana Ferreira,Aéreo,SQS-9V80,Sá dos Dourados,Castro,Entregue
+2025-10-05,2025-10-12,Théo Mendonça,Marítimo,RCO-5B29,Novaes,Carvalho,Em Trânsito
+2025-10-25,2025-10-28,Sr. Dante da Cruz,Marítimo,GPV-7L97,Ribeiro,Abreu do Campo,Entregue
+2025-10-26,2025-11-01,Melissa Sá,Marítimo,WFI-9V10,Pacheco,Cassiano,Atrasado
+2025-10-21,2025-10-31,Pedro Miguel Alves,Marítimo,NKS-7Z39,Fogaça da Praia,Brito de Sales,Atrasado
+2025-10-24,2025-10-28,Thales Borges,Marítimo,RBW-0M22,Ferreira,Freitas de Câmara,Entregue
+2025-10-11,2025-10-14,Dr. Bernardo Cirino,Aéreo,MLX-7V75,Camargo das Pedras,da Rosa da Praia,Em Trânsito
+2025-09-30,2025-10-06,Clara Pinto,Marítimo,PMS-1O97,Cunha Verde,Martins,Entregue
+2025-10-02,2025-10-08,Enzo Gabriel da Mata,Rodoviário,XBY-1D66,Gomes,Cardoso da Prata,Atrasado
+2025-10-12,2025-10-20,Gabriela Abreu,Aéreo,BPE-8V77,Moraes,da Mota de Azevedo,Entregue
+2025-10-21,2025-10-28,Diogo Lopes,Rodoviário,ROQ-9Z14,Barbosa,Mendes do Galho,Entregue
+2025-10-05,2025-10-15,Mateus Barros,Aéreo,RRJ-0C29,Porto do Oeste,da Rosa Alegre,Em Trânsito
+2025-10-11,2025-10-15,Benjamin Alves,Rodoviário,NKQ-0K37,da Rosa,Castro,Entregue
+2025-10-28,2025-11-03,Marina Cardoso,Rodoviário,LBC-5F09,da Cruz de Barbosa,Viana do Sul,Em Trânsito
+2025-10-17,2025-10-21,Luísa Vargas,Marítimo,ZLU-6Q57,Ramos,Cavalcante,Entregue
+2025-10-20,2025-10-23,Yasmin Moreira,Aéreo,RUY-3S96,Araújo do Norte,Mendonça do Norte,Entregue
+2025-10-07,2025-10-11,Ana Lívia Araújo,Marítimo,GCZ-6C88,Fonseca,Cavalcanti da Mata,Entregue
+2025-10-09,2025-10-10,Dra. Heloísa Cunha,Marítimo,FOU-1V83,Silva,Sales Grande,Em Trânsito
+2025-10-03,2025-10-05,Lucas Moraes,Rodoviário,AJE-5O82,Souza,Marques de Campos,Entregue
+2025-10-05,2025-10-08,Theodoro Fernandes,Aéreo,HEK-0D92,Pires dos Dourados,Alves do Sul,Entregue
+2025-10-20,2025-10-22,Apollo Marques,Marítimo,QCD-9J20,Lopes,Melo Verde,Atrasado
+2025-10-28,2025-11-04,Ana Cecília Novais,Rodoviário,RPX-6O02,da Luz de da Rosa,Albuquerque da Serra,Entregue
+2025-10-25,2025-10-29,Calebe Aragão,Aéreo,OTJ-1X83,Cavalcanti do Galho,Porto,Entregue
+2025-10-22,2025-10-25,Hadassa Cardoso,Marítimo,NDL-8Z75,Azevedo do Galho,Ferreira,Em Trânsito
+2025-10-10,2025-10-20,Dr. João Miguel Araújo,Rodoviário,VYY-9H64,Nunes,Costela,Atrasado
+2025-10-11,2025-10-16,Catarina Fonseca,Marítimo,ZOO-8X00,Gomes Alegre,Monteiro do Oeste,Atrasado
+2025-10-11,2025-10-21,Lorena Jesus,Rodoviário,RGM-6V85,Novais,Pires,Entregue
+2025-10-14,2025-10-18,Asafe Vieira,Rodoviário,OJD-6L59,da Luz,Martins Paulista,Em Trânsito
+2025-10-07,2025-10-11,Dr. Ryan das Neves,Rodoviário,IAN-2E13,Rocha,Pacheco de Minas,Em Trânsito
+2025-10-24,2025-10-25,Srta. Lunna Almeida,Aéreo,HJN-0S92,Casa Grande Paulista,Novais da Prata,Entregue
+2025-10-19,2025-10-28,Nina Abreu,Rodoviário,JBS-2F34,Mendonça dos Dourados,Cavalcante de Melo,Entregue
+2025-10-14,2025-10-24,Luiz Fernando Pimenta,Rodoviário,LHC-6R08,Campos,da Rosa,Entregue
+2025-10-23,2025-10-25,Henry Cunha,Aéreo,PCV-1C25,Marques Grande,Siqueira da Praia,Entregue
+2025-10-23,2025-10-31,Erick Garcia,Marítimo,MLY-1Z64,Garcia,Aragão do Amparo,Atrasado
+2025-10-05,2025-10-13,Ágatha Camargo,Aéreo,XMY-2E93,Jesus da Prata,Siqueira das Flores,Entregue
+2025-10-23,2025-10-28,Bernardo Albuquerque,Aéreo,SAS-3M74,Marques do Galho,Aparecida de Viana,Em Trânsito
+2025-10-26,2025-11-05,Stephany Câmara,Aéreo,LGT-7Z46,Cassiano de da Mata,Albuquerque,Entregue
+2025-10-11,2025-10-21,Luísa Rocha,Marítimo,VAR-0S86,Sousa,Pastor Paulista,Atrasado
+2025-10-16,2025-10-24,Sofia Jesus,Aéreo,YFV-4M71,Nogueira,Montenegro da Mata,Entregue
+2025-10-01,2025-10-02,Ana Julia da Paz,Aéreo,PVB-7H34,da Rocha,Farias,Atrasado
+2025-10-16,2025-10-19,Paulo Cassiano,Rodoviário,HJQ-3A46,Rezende,Campos,Em Trânsito
+2025-10-17,2025-10-20,Anthony Gabriel Nogueira,Rodoviário,YAQ-5M22,Gomes do Galho,Pinto,Atrasado
+2025-10-22,2025-10-30,Agatha Abreu,Aéreo,BQV-4H11,Monteiro do Oeste,Siqueira da Serra,Entregue
+2025-10-15,2025-10-18,Giovanna Carvalho,Aéreo,FDC-6U25,da Cruz das Pedras,Abreu da Praia,Entregue
+2025-10-18,2025-10-22,Davi Miguel Santos,Rodoviário,VVA-3O05,Monteiro,da Costa de Caldeira,Em Trânsito
+2025-10-08,2025-10-11,Dr. Brayan Caldeira,Rodoviário,VSM-1H11,Sá,Pastor Alegre,Entregue
+2025-10-18,2025-10-22,João Miguel Garcia,Rodoviário,JUS-0O75,Camargo,Sales,Em Trânsito
+2025-10-07,2025-10-17,Dra. Maria Cecília Freitas,Marítimo,WEM-9C00,Siqueira do Amparo,da Costa das Pedras,Atrasado
+2025-10-12,2025-10-13,Theodoro Pacheco,Aéreo,NOM-2C60,Sampaio do Norte,da Costa,Atrasado
+2025-10-15,2025-10-18,Nicole Sousa,Marítimo,DDQ-8Y77,Costela Alegre,Caldeira,Entregue
+2025-10-29,2025-11-04,Esther Marques,Aéreo,QWD-7N07,da Costa da Praia,Leão da Serra,Atrasado
+2025-10-16,2025-10-23,Luiz Gustavo Vieira,Marítimo,NGF-3R40,Farias,Silveira,Atrasado
+2025-10-04,2025-10-06,Beatriz Andrade,Aéreo,LYF-5R59,Jesus da Mata,Costa de Minas,Entregue
+2025-10-01,2025-10-06,Maria Laura Castro,Rodoviário,FGB-5B13,Monteiro,Azevedo do Sul,Entregue
+2025-10-03,2025-10-12,Isabella Cassiano,Aéreo,EVY-2Z67,Barros de Minas,Rezende,Entregue
+2025-10-18,2025-10-19,Dr. Vinícius Carvalho,Rodoviário,ZZV-3B82,Castro,Leão Grande,Atrasado
+2025-10-14,2025-10-17,Isaac Barros,Rodoviário,BHZ-9M11,Sales,Pinto,Entregue
+2025-10-23,2025-10-26,Levi Caldeira,Marítimo,UWT-9R25,Monteiro,Borges das Flores,Em Trânsito
+2025-10-22,2025-10-30,Emanuelly Gomes,Rodoviário,LHG-1C75,Pimenta,da Mata,Atrasado
+2025-10-06,2025-10-14,Dra. Maya Duarte,Marítimo,CRX-4B36,Guerra,Lopes,Atrasado
+2025-10-19,2025-10-24,Natália Cavalcante,Marítimo,TBY-9Q11,da Mata,da Cunha do Campo,Em Trânsito
+2025-10-03,2025-10-06,Júlia Alves,Rodoviário,AXP-7U79,da Cunha,da Paz do Amparo,Em Trânsito
+2025-10-20,2025-10-28,Sr. Heitor Moreira,Aéreo,XIU-7V80,Borges de Nascimento,Teixeira de da Costa,Em Trânsito
+2025-10-20,2025-10-21,Maya Campos,Aéreo,PXE-2K22,Novais,Nogueira do Amparo,Entregue
+2025-10-26,2025-10-29,Dra. Isabelly Novais,Marítimo,FWR-9C84,Siqueira da Praia,Barbosa,Entregue
+2025-10-29,2025-11-02,Maria Laura Pires,Marítimo,RPX-8C06,da Luz,Sampaio de Goiás,Em Trânsito
+2025-10-03,2025-10-12,Isis Lopes,Marítimo,AXB-1D47,Araújo de da Cunha,Guerra da Mata,Atrasado
+2025-10-19,2025-10-20,Luana Ribeiro,Aéreo,UHM-0M74,Câmara,Castro,Entregue
+2025-10-15,2025-10-20,Pedro da Costa,Marítimo,HXR-5F73,Pastor,Brito Verde,Em Trânsito
+2025-10-22,2025-10-30,Sra. Maria Liz Rezende,Marítimo,LQC-8U51,Pastor,da Mata de Goiás,Em Trânsito
+2025-10-29,2025-10-31,Luiza Nascimento,Aéreo,HTH-1J88,da Cruz dos Dourados,Viana de Santos,Entregue
+2025-10-03,2025-10-08,Benicio Cirino,Marítimo,WNB-9E08,Araújo de Sá,Andrade do Oeste,Em Trânsito
+2025-10-14,2025-10-17,Leonardo Sales,Aéreo,EIM-0O44,Almeida do Amparo,Aragão,Atrasado
+2025-10-18,2025-10-28,Caio Gonçalves,Rodoviário,XOP-3U41,Alves,da Paz,Em Trânsito
+2025-09-29,2025-09-30,Ravi Fernandes,Rodoviário,ESD-7Q22,Cavalcanti,Gonçalves,Atrasado
+2025-09-29,2025-10-02,João Vitor Vieira,Aéreo,TSP-9O71,da Costa,Casa Grande,Atrasado
+2025-10-09,2025-10-10,Marcelo Pereira,Marítimo,FUX-2T45,Peixoto de Pacheco,Lima,Entregue
+2025-10-02,2025-10-10,Ana Lívia Dias,Marítimo,FBK-0Q01,Sales de Goiás,Lima das Flores,Em Trânsito
+2025-10-02,2025-10-08,Guilherme Ramos,Marítimo,ZLQ-5B37,das Neves Grande,Leão Verde,Em Trânsito
+2025-10-29,2025-11-02,Maria Luiza Aparecida,Aéreo,JUD-4G48,Cardoso,Brito de Andrade,Em Trânsito
+2025-10-11,2025-10-15,Erick Lima,Rodoviário,YGO-0T68,Viana de Novaes,Castro,Entregue
+2025-10-14,2025-10-20,Maria Liz Nascimento,Marítimo,KHF-4Q16,Nascimento Grande,Montenegro das Flores,Em Trânsito
+2025-10-18,2025-10-26,Nathan Rodrigues,Rodoviário,EDT-5K69,Castro,Alves,Atrasado
+2025-10-05,2025-10-13,Stella Camargo,Marítimo,DJF-0H47,Machado do Campo,da Mata,Em Trânsito
+2025-10-08,2025-10-09,Arthur Miguel Camargo,Aéreo,JEI-8Y79,Costa das Pedras,Aragão de Goiás,Em Trânsito
+2025-10-20,2025-10-25,Ana Cecília Cunha,Rodoviário,MUK-4C87,Nogueira Paulista,Castro,Em Trânsito
+2025-10-17,2025-10-21,Elisa Pires,Aéreo,ZMS-7X35,Moura,Moura da Praia,Em Trânsito
+2025-10-24,2025-10-26,Mateus Vieira,Rodoviário,ARH-3O93,Ramos,Sá Alegre,Atrasado
+2025-10-16,2025-10-18,Bianca Vasconcelos,Marítimo,XWC-4F11,Freitas de da Conceição,Cunha,Em Trânsito
+2025-10-24,2025-11-01,Pedro Lucas Correia,Rodoviário,PWS-4I43,Barbosa do Amparo,Teixeira,Atrasado
+2025-10-25,2025-11-01,Maria Luísa Monteiro,Rodoviário,FSZ-9A07,Abreu,Câmara de Lopes,Em Trânsito
+2025-10-04,2025-10-12,Olivia da Luz,Rodoviário,QGZ-0A22,Rodrigues de Pinto,Cassiano,Em Trânsito
+2025-10-13,2025-10-21,Luara Rodrigues,Marítimo,PCL-2O69,Aparecida do Campo,Mendonça,Atrasado
+2025-10-29,2025-11-04,Sarah Barros,Aéreo,SWI-2C55,Nascimento da Serra,Lima do Galho,Entregue
+2025-09-30,2025-10-08,Maya Ramos,Marítimo,QWE-3H14,Souza de Mendes,Viana do Amparo,Atrasado
+2025-10-20,2025-10-28,Léo Aparecida,Marítimo,NHG-3Q83,da Luz,Abreu do Amparo,Entregue
+2025-10-01,2025-10-04,Luiz Miguel Araújo,Marítimo,YWK-0X51,da Cunha de Goiás,Cunha,Em Trânsito
+2025-10-23,2025-10-27,Emanuelly Barbosa,Aéreo,WOT-8G44,Andrade de da Rosa,Porto do Sul,Atrasado
+2025-10-23,2025-11-01,Daniela Pacheco,Marítimo,IKU-6K06,Oliveira,da Paz,Entregue
+2025-10-21,2025-10-31,Vitor Gabriel Nunes,Aéreo,DZV-1P81,Abreu,Mendes,Entregue
+2025-10-22,2025-10-28,Dr. Anthony Barbosa,Aéreo,GGA-0Q37,Freitas Grande,Cavalcanti,Entregue
+2025-10-03,2025-10-13,Dra. Emanuelly Correia,Rodoviário,EJR-0Y06,Duarte,Sampaio do Oeste,Em Trânsito
+2025-10-03,2025-10-13,Vitória Cunha,Rodoviário,HTU-7U38,Sá,da Mata,Atrasado
+2025-10-15,2025-10-23,Bianca Vasconcelos,Marítimo,MIP-6Q23,Ferreira do Campo,Cassiano,Atrasado
+2025-10-06,2025-10-14,Pedro Lucas Pastor,Marítimo,TQO-3J72,Fonseca,Novaes,Entregue
+2025-10-26,2025-10-29,Emilly Sousa,Rodoviário,EFA-8O90,Martins,Mendes de da Mota,Entregue
+2025-09-30,2025-10-07,Anthony Gabriel Casa Grande,Marítimo,IDZ-4Q83,Lopes de Gonçalves,Nunes de Minas,Entregue
+2025-10-23,2025-10-29,Luiz Miguel Santos,Rodoviário,YUG-7B83,Pereira da Prata,Garcia do Galho,Atrasado
+2025-10-23,2025-10-29,Luara Caldeira,Aéreo,IXO-8U73,Farias das Flores,Silva de da Paz,Em Trânsito
